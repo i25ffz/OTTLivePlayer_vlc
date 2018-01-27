@@ -11,7 +11,9 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
+import android.view.GestureDetector;
 import android.view.KeyEvent;
+import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.View;
@@ -123,6 +125,7 @@ public class VideoPlayerActivity extends Activity {
     private TranslateAnimation animIn;
     private TranslateAnimation exitAnim;
     private NetworkReceiver networkReceiver;
+    private GestureDetector gestureDetector;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -134,6 +137,41 @@ public class VideoPlayerActivity extends Activity {
         initPlayer();
 
         showProgramInfo();
+
+        //1 初始化  手势识别器
+        gestureDetector = new GestureDetector(this,new GestureDetector.SimpleOnGestureListener(){
+            @Override
+            public boolean onFling(MotionEvent e1, MotionEvent e2, float velocityX, float velocityY) {
+                //判断竖直方向移动的大小
+                if(Math.abs(e1.getRawY() - e2.getRawY()) > 100){
+                    //Toast.makeText(getApplicationContext(), "动作不合法", 0).show();
+                    return true;
+                }
+                if(Math.abs(velocityX) < 150){
+                    //Toast.makeText(getApplicationContext(), "移动的太慢", 0).show();
+                    return true;
+                }
+
+                if((e1.getRawX() - e2.getRawX()) > 200){
+                    hidePlaylist();
+                    return true;
+                }
+
+                if((e2.getRawX() - e1.getRawX()) > 200){
+                    showPlaylist();
+                    //消费掉当前事件  不让当前事件继续向下传递
+                    return true;
+                }
+                return super.onFling(e1, e2, velocityX, velocityY);
+            }
+        });
+    }
+
+    @Override
+    public boolean onTouchEvent(MotionEvent event) {
+        //2.让手势识别器生效
+        gestureDetector.onTouchEvent(event);
+        return super.onTouchEvent(event);
     }
 
     @Override
@@ -321,7 +359,7 @@ public class VideoPlayerActivity extends Activity {
                     break;
                 }
 
-                togglePlaylist();
+                showPlaylist();
                 break;
 
             case KeyEvent.KEYCODE_DPAD_UP:
@@ -420,7 +458,13 @@ public class VideoPlayerActivity extends Activity {
         llProgramList.startAnimation(exitAnim);
     }
 
-    public void togglePlaylist() {
+    public void hidePlaylist() {
+        if (llProgramList.getVisibility() == View.VISIBLE) {
+            exitProgramList();
+        }
+    }
+
+    public void showPlaylist() {
         if (llProgramList.getVisibility() == View.VISIBLE) {
             if (currentListItemID == programIndex) {
                 return;

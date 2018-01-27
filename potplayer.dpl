@@ -1,0 +1,3434 @@
+﻿DAUMPLAYLIST
+playname=http://183.251.61.207/PLTV/88888888/224/3221225929/index.m3u8
+topindex=55
+1*file*http://www.szmgiptv.com:14437/hls/01.m3u8
+1*title*CCTV-1   综合
+1*played*0
+2*file*http://111.13.42.8/PLTV/88888888/224/3221225958/index.m3u8
+2*title*CCTV-1   综合
+2*played*0
+3*file*http://111.13.42.8/PLTV/88888888/224/3221225933/index.m3u8
+3*title*CCTV-1   综合        【高清】
+3*played*0
+4*file*http://183.251.61.207/PLTV/88888888/224/3221225829/index.m3u8
+4*title*CCTV-1   综合        【高清】
+4*played*0
+5*file*http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8
+5*title*CCTV-1   综合        【高清】
+5*played*0
+6*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225579/index.m3u8
+6*title*CCTV-1   综合        【高清】
+6*played*0
+7*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225548/index.m3u8
+7*title*CCTV-1   综合        【高清】
+7*played*0
+8*file*http://122.96.52.11:8080/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
+8*title*CCTV-1   综合        【高清】
+8*played*0
+9*file*http://183.207.248.8:80/PLTV/3/224/3221226924/index.m3u8
+9*title*CCTV-1   综合        【高清】
+9*played*0
+10*file*http://111.13.42.8/PLTV/88888888/224/3221225928/index.m3u8
+10*title*CCTV-1   综合        【高清】
+10*played*0
+11*file*http://111.13.42.8/PLTV/88888888/224/3221225934/index.m3u8
+11*title*CCTV-2   财经
+11*played*0
+12*file*http://36.111.42.44:81/hls/live-cctv2-051/stream800/index.m3u8
+12*title*CCTV-2   财经
+12*played*0
+13*file*http://117.169.120.209:8080/ysten-businessmobile/live/cctv-2/astv.m3u8
+13*title*CCTV-2   财经
+13*played*0
+14*file*http://122.96.52.11:8080/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
+14*title*CCTV-2   财经        【高清】
+14*played*0
+15*file*http://122.96.52.11:8080/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
+15*title*CCTV-2   财经        【高清】
+15*played*0
+16*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel08/index.m3u8
+16*title*CCTV-3   综艺
+16*played*0
+17*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225546/index.m3u8
+17*title*CCTV-3   综艺        【高清】
+17*played*0
+18*file*http://183.207.249.15/PLTV/3/224/3221225588/index.m3u8
+18*title*CCTV-3   综艺        【高清】
+18*played*0
+19*file*http://183.207.248.8:80/PLTV/3/224/3221225588/index.m3u8
+19*title*CCTV-3   综艺        【高清】
+19*played*0
+20*file*http://117.169.120.209:8080/ysten-businessmobile/live/cctv-3/astv.m3u8
+20*title*CCTV-3   综艺        【高清】
+20*played*0
+21*file*http://111.13.42.8/PLTV/88888888/224/3221225935/index.m3u8
+21*title*CCTV-3   综艺        【高清】
+21*played*0
+22*file*http://122.96.52.11:8080/gitv_live/CCTV-3/CCTV-3.m3u8
+22*title*CCTV-3   综艺        【高清】
+22*played*0
+23*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000080&playtoken=31604AAZZAEAPZZ1&auth=no
+23*title*CCTV-4   中文国际
+23*played*0
+24*file*http://111.13.42.8/PLTV/88888888/224/3221225735/index.m3u8
+24*title*CCTV-4   中文国际
+24*played*0
+25*file*http://117.169.120.209:8080/ysten-businessmobile/live/cctv-4/dujuejiami.m3u8
+25*title*CCTV-4   中文国际
+25*played*0
+26*file*http://111.13.42.8/PLTV/88888888/224/3221226063/index.m3u8
+26*title*CCTV-4   中文国际
+26*played*0
+27*file*http://111.13.42.8/PLTV/88888888/224/3221225936/index.m3u8
+27*title*CCTV-4   中文国际
+27*played*0
+28*file*http://183.207.249.7/PLTV/3/224/3221225534/index.m3u8
+28*title*CCTV-4   中文国际 0
+28*played*0
+29*file*http://61.166.153.32:1180/play/playback/90000001000000050000000000000199/live100001.m3u8
+29*title*CCTV-4   中文国际【高清】
+29*played*0
+30*file*http://14.17.78.96/live/hls/201706223000000bp99/desc.m3u8
+30*title*CCTV-5   体育 0
+30*played*0
+31*file*http://122.96.52.11:8080/gitv_live/CCTV-5/CCTV-5.m3u8
+31*title*CCTV-5   体育        【高清】
+31*played*0
+32*file*http://117.169.120.209:8080/ysten-businessmobile/live/cctv-5/dujuejiami.m3u8
+32*title*CCTV-5   体育        【高清】
+32*played*0
+33*file*http://36.111.42.44:81/hls/live-cctv5hd-069/stream800/index.m3u8
+33*title*CCTV-5   体育        【高清】
+33*played*0
+34*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225545/index.m3u8
+34*title*CCTV-5   体育        【高清】
+34*played*0
+35*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000086&playtoken=31604AAZZAEAPZZ1&auth=no
+35*title*CCTV-5   体育        【高清】
+35*played*0
+36*file*http://111.13.42.8/PLTV/88888888/224/3221225937/index.m3u8
+36*title*CCTV-5   体育        【高清】
+36*played*0
+37*file*http://111.13.42.8/PLTV/88888888/224/3221226039/index.m3u8
+37*title*CCTV-5   体育        【高清】
+37*played*0
+38*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225534/index.m3u8
+38*title*CCTV5＋ 体育赛事【高清】
+38*played*0
+39*file*http://183.207.248.8:80/PLTV/3/224/3221226322/index.m3u8
+39*title*CCTV5＋ 体育赛事【高清】
+39*played*0
+40*file*http://122.96.52.11:8080/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+40*title*CCTV5＋ 体育赛事【高清】
+40*played*0
+41*file*http://111.13.42.8/PLTV/88888888/224/3221225938/index.m3u8
+41*title*CCTV5＋ 体育赛事【高清】
+41*played*0
+42*file*http://117.169.120.209:8080/ysten-businessmobile/live/hdcctv05plus/dujuejiami.m3u8
+42*title*CCTV5＋ 体育赛事【高清】
+42*played*0
+43*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000087&playtoken=31604AAZZAEAPZZ1&auth=no
+43*title*CCTV5＋ 体育赛事【高清】
+43*played*0
+44*file*http://122.96.52.11:8080/gitv_live/CCTV-6/CCTV-6.m3u8
+44*title*CCTV-6   电影
+44*played*1
+45*file*http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8
+45*title*CCTV-6   电影        【高清】
+45*played*0
+46*file*http://111.11.121.157:6410/000000001000/6117099895556651277/1.m3u8?channel-id=ystenlive
+46*title*CCTV-6   电影        【高清】
+46*played*0
+47*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225544/index.m3u8
+47*title*CCTV-6   电影        【高清】
+47*played*0
+48*file*http://111.13.42.8/PLTV/88888888/224/3221225939/index.m3u8
+48*title*CCTV-6   电影        【高清】
+48*played*0
+49*file*http://117.169.120.209:8080/ysten-businessmobile/live/cctv-6/astv.m3u8
+49*title*CCTV-6   电影        【高清】
+49*played*0
+50*file*http://183.207.249.15/PLTV/3/224/3221225546/index.m3u8
+50*title*CCTV-7   军事农业
+50*played*0
+51*file*http://122.96.52.11:8080/gitv_live/CCTV-7/CCTV-7.m3u8
+51*title*CCTV-7   军事农业
+51*played*0
+52*file*http://117.169.120.209:8080/ysten-businessmobile/live/cctv-7/astv.m3u8
+52*title*CCTV-7   军事农业
+52*played*0
+53*file*http://36.111.42.44:81/hls/live-cctv7-046/stream800/index.m3u8
+53*title*CCTV-7   军事农业
+53*played*0
+54*file*http://111.13.42.8/PLTV/88888888/224/3221225734/index.m3u8
+54*title*CCTV-7   军事农业
+54*played*0
+55*file*http://61.166.153.32:1180/play/playback/90000001000000050000000000000185/live100001.m3u8
+55*title*CCTV-7   军事农业【高清】
+55*played*0
+56*file*http://122.96.52.11:8080/gitv_live/G_CCTV-8/G_CCTV-8.m3u8
+56*title*CCTV-8   电视剧
+56*played*0
+56*duration2*64
+57*file*http://122.96.52.11:8080/gitv_live/G_CCTV-8/G_CCTV-8.m3u8
+57*title*CCTV-8   电视剧
+57*played*0
+58*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225543/index.m3u8
+58*title*CCTV-8   电视剧    【高清】
+58*played*0
+59*file*http://111.13.42.8/PLTV/88888888/224/3221225864/index.m3u8
+59*title*CCTV-8   电视剧    【高清】
+59*played*0
+60*file*http://111.13.42.8/PLTV/88888888/224/3221226035/index.m3u8
+60*title*CCTV-8   电视剧    【高清】
+60*played*0
+61*file*http://117.169.120.209:8080/ysten-businessmobile/live/cctv-8/astv.m3u8
+61*title*CCTV-8   电视剧    【高清】
+61*played*0
+62*file*http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+62*title*CCTV-8   电视剧    【高清】
+62*played*0
+63*file*http://183.207.249.9/PLTV/3/224/3221225572/index.m3u8
+63*title*CCTV-9   纪录
+63*played*0
+64*file*http://111.13.42.8/PLTV/88888888/224/3221225865/index.m3u8
+64*title*CCTV-9   纪录
+64*played*0
+65*file*http://122.96.52.11:8080/gitv_live/G_CCTV-9/G_CCTV-9.m3u8
+65*title*CCTV-9   纪录
+65*played*0
+65*duration2*64
+66*file*http://221.179.217.94/PLTV/88888888/224/3221225865/index.m3u8
+66*title*CCTV-9   纪录
+66*played*0
+67*file*http://183.251.61.207/PLTV/88888888/224/3221225929/index.m3u8
+67*title*CCTV-9   纪录        【高清】
+67*played*0
+68*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000091&playtoken=31604AAZZAEAPZZ1&auth=no
+68*title*CCTV-9   纪录        【高清】
+68*played*0
+69*file*http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+69*title*CCTV-9   纪录        【高清】
+69*played*0
+70*file*http://61.166.153.32:1180/play/playback/90000001000000050000000000000186/live100001.m3u8
+70*title*CCTV-9   纪录        【高清】
+70*played*0
+71*file*http://183.207.248.112:80/PLTV/3/224/3221225550/index.m3u8
+71*title*CCTV-10 科教
+71*played*0
+72*file*http://111.13.42.8/PLTV/88888888/224/3221226031/index.m3u8
+72*title*CCTV-10 科教
+72*played*0
+73*file*http://111.13.42.8/PLTV/88888888/224/3221225733/index.m3u8
+73*title*CCTV-10 科教
+73*played*0
+74*file*http://111.13.42.8/PLTV/88888888/224/3221225868/index.m3u8
+74*title*CCTV-10 科教
+74*played*0
+75*file*http://221.179.217.94/PLTV/88888888/224/3221225868/index.m3u8
+75*title*CCTV-10 科教
+75*played*0
+75*duration2*60
+76*file*http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
+76*title*CCTV-10 科教
+76*played*0
+77*file*http://117.169.120.209:8080/ysten-businessmobile/live/cctv-10/astv.m3u8
+77*title*CCTV-10 科教
+77*played*0
+78*file*http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+78*title*CCTV-10 科教        【高清】
+78*played*0
+79*file*http://61.166.153.32:1180/play/playback/90000001000000050000000000000187/live100001.m3u8
+79*title*CCTV-10 科教        【高清】
+79*played*0
+80*file*http://183.207.249.15/PLTV/3/224/3221225552/index.m3u8
+80*title*CCTV-11 戏曲
+80*played*0
+81*file*http://111.13.42.8/PLTV/88888888/224/3221225732/index.m3u8
+81*title*CCTV-11 戏曲
+81*played*0
+82*file*http://111.13.42.8/PLTV/88888888/224/3221225869/index.m3u8
+82*title*CCTV-11 戏曲
+82*played*0
+83*file*http://111.13.42.8/PLTV/88888888/224/3221226047/index.m3u8
+83*title*CCTV-11 戏曲
+83*played*0
+84*file*http://221.179.217.94/PLTV/88888888/224/3221225869/index.m3u8
+84*title*CCTV-11 戏曲
+84*played*0
+85*file*http://183.207.248.8:80//PLTV/3/224/3221225556/index.m3u8
+85*title*CCTV-12 社会与法
+85*played*0
+86*file*http://221.179.217.94/PLTV/88888888/224/3221225870/index.m3u8
+86*title*CCTV-12 社会与法
+86*played*0
+87*file*http://111.13.42.8/PLTV/88888888/224/3221225870/index.m3u8
+87*title*CCTV-12 社会与法
+87*played*0
+88*file*http://111.13.42.8/PLTV/88888888/224/3221226048/index.m3u8
+88*title*CCTV-12 社会与法
+88*played*0
+89*file*http://111.13.42.8/PLTV/88888888/224/3221225731/index.m3u8
+89*title*CCTV-12 社会与法
+89*played*0
+90*file*http://61.166.153.32:1180/play/playback/90000001000000050000000000000188/live100001.m3u8
+90*title*CCTV-12 社会与法【高清】
+90*played*0
+91*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000093&playtoken=31604AAZZAEAPZZ1&auth=no
+91*title*CCTV-12 社会与法【高清】
+91*played*0
+92*file*http://122.96.52.11:8080/gitv_live/CCTV-12/CCTV-12.m3u8
+92*title*CCTV-12 社会与法【高清】
+92*played*0
+93*file*http://183.207.248.8:80/PLTV/3/224/3221225560/index.m3u8
+93*title*CCTV-13 新闻
+93*played*0
+94*file*http://122.96.52.11:8080/gitv_live/CCTV-13/CCTV-13.m3u8
+94*title*CCTV-13 新闻
+94*played*0
+95*file*http://111.13.42.8/PLTV/88888888/224/3221225871/index.m3u8
+95*title*CCTV-13 新闻
+95*played*0
+96*file*http://14.17.78.96/live/hls/201706223000000c699/desc.m3u8
+96*title*CCTV-13 新闻
+96*played*0
+97*file*http://111.13.42.8/PLTV/88888888/224/3221226049/index.m3u8
+97*title*CCTV-13 新闻
+97*played*0
+98*file*http://221.179.217.94/PLTV/88888888/224/3221225871/index.m3u8
+98*title*CCTV-13 新闻
+98*played*0
+99*file*http://221.179.217.94/PLTV/88888888/224/3221225872/index.m3u8
+99*title*CCTV-14 少儿
+99*played*0
+100*file*http://220.167.81.55/PLTV/88888888/224/3221226285/00000100000000060000000000035238_0.smil
+100*title*CCTV-14 少儿
+100*played*0
+101*file*http://111.13.42.8/PLTV/88888888/224/3221226027/index.m3u8
+101*title*CCTV-14 少儿
+101*played*0
+102*file*http://111.13.42.8/PLTV/88888888/224/3221225872/index.m3u8
+102*title*CCTV-14 少儿
+102*played*0
+103*file*http://111.13.42.8/PLTV/88888888/224/3221225777/index.m3u8
+103*title*CCTV-14 少儿
+103*played*0
+104*file*http://122.96.52.11:8080/gitv_live/G_CCTV-14/G_CCTV-14.m3u8
+104*title*CCTV-14 少儿
+104*played*0
+105*file*http://61.166.153.32:1180/play/playback/90000001000000050000000000000189/live100001.m3u8
+105*title*CCTV-14 少儿        【高清】
+105*played*0
+106*file*http://183.207.248.8:80//PLTV/3/224/3221225568/index.m3u8
+106*title*CCTV-15 音乐
+106*played*0
+107*file*http://221.179.217.94/PLTV/88888888/224/3221225940/index.m3u8
+107*title*CCTV-15 音乐
+107*played*0
+108*file*http://111.13.42.8/PLTV/88888888/224/3221225940/index.m3u8
+108*title*CCTV-15 音乐
+108*played*0
+109*file*http://111.13.42.8/PLTV/88888888/224/3221226050/index.m3u8
+109*title*CCTV-15 音乐
+109*played*0
+110*file*http://111.13.42.8/PLTV/88888888/224/3221225730/index.m3u8
+110*title*CCTV-15 音乐
+110*played*0
+111*file*http://122.96.52.11:8080/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
+111*title*CCTV-15 音乐
+111*played*0
+111*duration2*67
+112*file*http://221.179.217.94/PLTV/88888888/224/3221225945/index.m3u8
+112*title*CCTV  电视指南
+112*played*0
+113*file*http://111.13.42.8/PLTV/88888888/224/3221225767/index.m3u8
+113*title*CGTN
+113*played*0
+114*file*http://111.13.42.8/PLTV/88888888/224/3221225867/index.m3u8
+114*title*CGTN
+114*played*0
+115*file*http://111.13.42.8/PLTV/88888888/224/3221225866/index.m3u8
+115*title*CGTN 纪录
+115*played*0
+116*file*http://111.13.42.8/PLTV/88888888/224/3221226046/index.m3u8
+116*title*CGTN 纪录
+116*played*0
+117*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000065&playtoken=31604AAZZAEAPZZ1&auth=no
+117*title*CCTV 老故事
+117*played*0
+118*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000079&playtoken=31604AAZZAEAPZZ1&auth=no
+118*title*CCTV 卫生健康
+118*played*0
+119*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000066&playtoken=31604AAZZAEAPZZ1&auth=no
+119*title*CCTV 女性时尚
+119*played*0
+120*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000068&playtoken=31604AAZZAEAPZZ1&auth=no
+120*title*CCTV 发现之旅
+120*played*0
+121*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000058&playtoken=31604AAZZAEAPZZ1&auth=no
+121*title*CCTV 世界地理
+121*played*0
+122*file*http://pili-live-hls.cooldiao.com/cmstop/s10001-video-centv1.m3u8
+122*title*中国教育-1
+122*played*0
+123*file*http://pili-live-hls.cooldiao.com/cmstop/s10001-video-centv2.m3u8
+123*title*中国教育-2
+123*played*0
+124*file*http://pili-live-hls.cooldiao.com/cmstop/s10001-video-centv3.m3u8
+124*title*中国教育-3
+124*played*0
+125*file*http://pili-live-hls.cooldiao.com/cmstop/s10001-video-centv4.m3u8
+125*title*中国教育-4
+125*played*0
+126*file*http://183.207.248.8:80/PLTV/3/224/3221225614/index.m3u8
+126*title*山东教育
+126*played*0
+127*file*http://111.13.42.8/PLTV/88888888/224/3221225908/index.m3u8
+127*title*山东教育
+127*played*0
+128*file*http://111.13.42.8/PLTV/88888888/224/3221225990/index.m3u8
+128*title*山东教育
+128*played*0
+129*file*rtmp://webcast.weathertv.cn/tslsChannelLive/qCFIfHB/live
+129*title*中国气象频道
+129*played*0
+130*file*http://pull.sainv.net/live/live/playlist.m3u8?wsSession=b468e790facf2c9e77ecd6bc-150729224365648&wsIPSercert=85d16a647aac6dbc125b6eadf0a6a612&wsMonitor=-1
+130*title*中华卫视神州台
+130*played*0
+131*file*http://211.103.134.205:8081/videohls/zgjtbj.m3u8
+131*title*中国交通
+131*played*0
+132*file*http://alicdn.carlive.cdvcloud.com/qcpd/pc.m3u8
+132*title*中国汽车卫视
+132*played*0
+133*file*http://14.17.78.96/live/hls/201702203000000ro99/desc.m3u8
+133*title*红星卫视
+133*played*0
+134*file*http://36.111.42.44:81/hls/live-hnws-041/stream800/index.m3u8
+134*title*湖南卫视
+134*played*0
+134*duration2*36
+135*file*http://111.13.42.8/PLTV/88888888/224/3221225727/index.m3u8
+135*title*湖南卫视
+135*played*0
+136*file*http://111.13.42.8/PLTV/88888888/224/3221226059/index.m3u8
+136*title*湖南卫视
+136*played*0
+137*file*http://111.13.42.8/PLTV/88888888/224/3221225885/index.m3u8
+137*title*湖南卫视        【高清】
+137*played*0
+138*file*http://122.96.52.11:8080/gitv_live/HNWS-HD/HNWS-HD.m3u8
+138*title*湖南卫视        【高清】
+138*played*0
+138*duration2*63
+139*file*http://117.169.120.142:8080/ysten-businessmobile/live/hdhunanstv/astv.m3u8
+139*title*湖南卫视        【高清】
+139*played*0
+140*file*http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+140*title*湖南卫视        【高清】
+140*played*0
+141*file*http://183.207.248.71/gitv/live1/G_HUNAN/G_HUNAN
+141*title*湖南卫视        【高清】
+141*played*0
+142*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000106&playtoken=31604AAZZAEAPZZ1&auth=no
+142*title*湖南卫视        【高清】
+142*played*0
+143*file*http://183.207.248.8:80/PLTV/3/224/3221225521/index.m3u8
+143*title*湖南卫视        【高清】
+143*played*0
+144*file*http://yf.m.l.cztv.com/channels/lantian/channel16/360p.m3u8
+144*title*浙江卫视
+144*played*0
+145*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel90/700.m3u8
+145*title*浙江卫视
+145*played*0
+146*file*http://36.111.42.44:81/hls/live-zjws-031/stream800/index.m3u8
+146*title*浙江卫视
+146*played*0
+147*file*http://111.13.42.8/PLTV/88888888/224/3221225995/index.m3u8
+147*title*浙江卫视
+147*played*0
+148*file*http://111.13.42.8/PLTV/88888888/224/3221225903/index.m3u8
+148*title*浙江卫视        【高清】
+148*played*0
+149*file*http://183.207.248.71/gitv/live1/G_CCTV-1/G_CCTV-1
+149*title*浙江卫视        【高清】
+149*played*0
+150*file*http://122.96.52.11:8080/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
+150*title*浙江卫视        【高清】
+150*played*0
+151*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000101&playtoken=31604AAZZAEAPZZ1&auth=no
+151*title*浙江卫视        【高清】
+151*played*0
+152*file*http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+152*title*浙江卫视        【高清】
+152*played*0
+153*file*http://183.207.249.7/PLTV/3/224/3221225544/index.m3u8
+153*title*浙江卫视        【高清】
+153*played*0
+154*file*http://183.207.249.15/PLTV/3/224/3221225558/index.m3u8
+154*title*东方卫视
+154*played*0
+155*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225581/index.m3u8
+155*title*东方卫视
+155*played*0
+156*file*http://111.13.42.8/PLTV/88888888/224/3221226023/index.m3u8
+156*title*东方卫视
+156*played*0
+157*file*http://111.13.42.8/PLTV/88888888/224/3221225875/index.m3u8
+157*title*东方卫视        【高清】
+157*played*0
+158*file*http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+158*title*东方卫视        【高清】
+158*played*0
+159*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000097&playtoken=31604AAZZAEAPZZ1&auth=no
+159*title*东方卫视        【高清】
+159*played*0
+160*file*http://122.96.52.11:8080/gitv_live/G_DONGFANG/G_DONGFANG.m3u8
+160*title*东方卫视     0   【高清】
+160*played*0
+161*file*http://183.207.248.8:80/PLTV/3/224/3221226259/index.m3u8
+161*title*东方卫视     0   【高清】
+161*played*0
+162*file*http://111.13.42.8/PLTV/88888888/224/3221226011/index.m3u8
+162*title*江苏卫视
+162*played*0
+163*file*http://111.13.42.8/PLTV/88888888/224/3221225744/index.m3u8
+163*title*江苏卫视
+163*played*0
+164*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225542/index.m3u8
+164*title*江苏卫视        【高清】
+164*played*0
+165*file*http://122.96.52.11:8080/gitv_live/JSWS-HD/JSWS-HD.m3u8
+165*title*江苏卫视        【高清】
+165*played*0
+166*file*http://183.207.248.71/gitv/live1/JSWS-HD/JSWS-HD
+166*title*江苏卫视        【高清】
+166*played*0
+167*file*http://vod.cache.cmvideo.cn:8088/wd_r2/cctv/jiangsuhd/1200/01.m3u8?msisdn=0446652495667&mdspid=&spid=699067&netType=1&sid=5500199408&pid=2028597139&timestamp=20170316100526&SecurityKey=20170316100526&Channel_ID=1004_10010001005&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&mtv_session=51d9aa8e0cdcd8dab755ab5e19debe2f&HlsSubType=1&HlsProfileId=1&encrypt=6f99ee49b374fb4e76d269e675d07109
+167*title*江苏卫视        【高清】
+167*played*0
+168*file*rtmp://livertmp-al.wasu.cn/live9/hd_jsws
+168*title*江苏卫视        【高清】
+168*played*0
+169*file*http://183.207.249.10/PLTV/3/224/3221226255/index.m3u8
+169*title*江苏卫视        【高清】
+169*played*0
+170*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225580/index.m3u8
+170*title*北京卫视
+170*played*0
+171*file*http://111.13.42.8/PLTV/88888888/224/3221225960/index.m3u8
+171*title*北京卫视
+171*played*0
+172*file*http://111.13.42.8/PLTV/88888888/224/3221226052/index.m3u8
+172*title*北京卫视
+172*played*0
+173*file*http://111.13.42.8/PLTV/88888888/224/3221225874/index.m3u8
+173*title*北京卫视        【高清】
+173*played*0
+174*file*http://122.96.52.11:8080/gitv_live/G_BEIJING/G_BEIJING.m3u8
+174*title*北京卫视        【高清】
+174*played*0
+175*file*http://122.96.52.11:8080/gitv_live/BTV-1/BTV-1.m3u8
+175*title*北京卫视        【高清】
+175*played*0
+176*file*http://117.169.120.209:8080/ysten-businessmobile/live/hdbeijingstv/astv.m3u8
+176*title*北京卫视        【高清】
+176*played*0
+177*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000095&playtoken=31604AAZZAEAPZZ1&auth=no
+177*title*北京卫视        【高清】
+177*played*0
+178*file*http://183.207.248.8:80/PLTV/3/224/3221226257/index.m3u8
+178*title*北京卫视        【高清】
+178*played*0
+179*file*http://live.cjyun.org/video/s10008-hbws08/index.m3u8
+179*title*湖北卫视
+179*played*0
+180*file*http://183.207.248.8:80/PLTV/3/224/3221225630/index.m3u8
+180*title*湖北卫视
+180*played*0
+181*file*http://122.96.52.11:8080/gitv_live/G_HUBEI/G_HUBEI.m3u8
+181*title*湖北卫视
+181*played*0
+182*file*http://111.13.42.8/PLTV/88888888/224/3221226058/index.m3u8
+182*title*湖北卫视
+182*played*0
+183*file*http://111.13.42.8/PLTV/88888888/224/3221225759/index.m3u8
+183*title*湖北卫视
+183*played*0
+184*file*http://111.13.42.8/PLTV/88888888/224/3221225884/index.m3u8
+184*title*湖北卫视        【高清】
+184*played*0
+185*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000105&playtoken=31604AAZZAEAPZZ1&auth=no
+185*title*湖北卫视        【高清】
+185*played*0
+186*file*http://122.96.52.11:8080/gitv_live/SDWS/SDWS.m3u8
+186*title*山东卫视
+186*played*0
+187*file*http://r.gslb.lecloud.com/live/hls/201706223000000de99/desc.m3u8
+187*title*山东卫视0
+187*played*0
+188*file*http://111.13.42.8/PLTV/88888888/224/3221225738/index.m3u8
+188*title*山东卫视
+188*played*0
+189*file*http://111.13.42.8/PLTV/88888888/224/3221226004/index.m3u8
+189*title*山东卫视
+189*played*0
+190*file*http://111.13.42.8/PLTV/88888888/224/3221225894/index.m3u8
+190*title*山东卫视        【高清】
+190*played*0
+191*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225578/index.m3u8
+191*title*山东卫视        【高清】
+191*played*0
+192*file*http://120.221.2.42:8089/PLTV/88888888/224/3221225968/index.m3u8
+192*title*山东卫视    0    【高清】
+192*played*0
+193*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000098&playtoken=31604AAZZAEAPZZ1&auth=no
+193*title*山东卫视        【高清】
+193*played*0
+194*file*http://183.207.248.8:80/PLTV/3/224/3221225596/index.m3u8
+194*title*山东卫视        【高清】
+194*played*0
+195*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225538/index.m3u8
+195*title*天津卫视
+195*played*0
+196*file*http://183.207.248.8:80/PLTV/3/224/3221225562/index.m3u8
+196*title*天津卫视
+196*played*0
+197*file*http://111.13.42.8/PLTV/88888888/224/3221225899/index.m3u8
+197*title*天津卫视        【高清】
+197*played*0
+198*file*http://183.251.61.207/PLTV/88888888/224/3221225941/index.m3u8
+198*title*天津卫视        【高清】
+198*played*0
+199*file*http://122.96.52.11:8080/gitv_live/TJWS/TJWS.m3u8
+199*title*天津卫视        【高清】
+199*played*0
+200*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000096&playtoken=31604AAZZAEAPZZ1&auth=no
+200*title*天津卫视        【高清】
+200*played*0
+201*file*http://183.207.248.71:80/ PLTV/3/224/3221226265/index.m3u8
+201*title*天津卫视        【高清】
+201*played*0
+202*file*http://tvplus.stream.lingnantv.com/hls/05461057/498.m3u8
+202*title*天津卫视    0    【高清】
+202*played*0
+203*file*http://tvplus.stream.lingnantv.com/hls/15161700/tjws/2.m3u8
+203*title*天津卫视3
+203*played*0
+204*file*http://14.17.78.96/live/hls/201706223000000dj99/desc.m3u8
+204*title*天津卫视2
+204*played*0
+205*file*http://www.szmgiptv.com:14436/hls/7.m3u8
+205*title*深圳卫视
+205*played*0
+206*file*http://183.207.248.8:80/PLTV/3/224/3221225582/index.m3u8
+206*title*深圳卫视
+206*played*0
+207*file*http://111.13.42.8/PLTV/88888888/224/3221226001/index.m3u8
+207*title*深圳卫视
+207*played*0
+208*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225540/index.m3u8
+208*title*深圳卫视
+208*played*0
+209*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225515/index.m3u8
+209*title*深圳卫视
+209*played*0
+210*file*http://116.66.222.46:8082/TV2006.m3u8
+210*title*深圳卫视        【高清】
+210*played*0
+211*file*http://122.96.52.11:8080/gitv_live/SZWS-HD/SZWS-HD.m3u8
+211*title*深圳卫视        【高清】
+211*played*0
+212*file*http://117.169.120.209:8080/ysten-businessmobile/live/hdshenzhenstv/astv.m3u8
+212*title*深圳卫视        【高清】
+212*played*0
+213*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000104&playtoken=31604AAZZAEAPZZ1&auth=no
+213*title*深圳卫视        【高清】
+213*played*0
+214*file*http://ivi.bupt.edu.cn/hls/szhd.m3u8
+214*title*深圳卫视        【高清】
+214*played*0
+215*file*http://122.96.52.11:8080/gitv_live/AHWS/AHWS.m3u8
+215*title*安徽卫视
+215*played*0
+215*duration2*56
+216*file*http://183.207.248.8:80/PLTV/3/224/3221225634/index.m3u8
+216*title*安徽卫视
+216*played*0
+217*file*http://111.13.42.8/PLTV/88888888/224/3221225873/index.m3u8
+217*title*安徽卫视
+217*played*0
+218*file*http://111.13.42.8/PLTV/88888888/224/3221226051/index.m3u8
+218*title*安徽卫视
+218*played*0
+219*file*http://111.13.42.8/PLTV/88888888/224/3221225746/index.m3u8
+219*title*安徽卫视
+219*played*0
+220*file*http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+220*title*安徽卫视        【高清】
+220*played*0
+221*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000107&playtoken=31604AAZZAEAPZZ1&auth=no
+221*title*安徽卫视        【高清】
+221*played*0
+222*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel16/400.m3u8
+222*title*辽宁卫视
+222*played*0
+223*file*http://183.207.248.8:80/PLTV/3/224/3221225566/index.m3u8
+223*title*辽宁卫视
+223*played*0
+224*file*http://122.96.52.11:8080/gitv_live/LNWS/LNWS.m3u8
+224*title*辽宁卫视
+224*played*0
+225*file*http://111.13.42.8/PLTV/88888888/224/3221225889/index.m3u8
+225*title*辽宁卫视
+225*played*0
+226*file*http://111.13.42.8/PLTV/88888888/224/3221226061/index.m3u8
+226*title*辽宁卫视
+226*played*0
+227*file*http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+227*title*辽宁卫视        【高清】
+227*played*0
+228*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000081&playtoken=31604AAZZAEAPZZ1&auth=no
+228*title*辽宁卫视        【高清】
+228*played*0
+229*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel11/index.m3u8
+229*title*广东卫视
+229*played*0
+230*file*http://36.111.42.44:81/hls/live-gdws-003/stream800/index.m3u8
+230*title*广东卫视
+230*played*0
+231*file*http://183.207.248.8:80/PLTV/3/224/3221225578/index.m3u8
+231*title*广东卫视
+231*played*0
+232*file*http://183.207.248.8:80/PLTV/3/224/3221225592/index.m3u8
+232*title*广东卫视
+232*played*0
+233*file*http://111.13.42.8/PLTV/88888888/224/3221225749/index.m3u8
+233*title*广东卫视
+233*played*0
+234*file*http://111.13.42.8/PLTV/88888888/224/3221226055/index.m3u8
+234*title*广东卫视
+234*played*0
+235*file*http://111.13.42.8/PLTV/88888888/224/3221225878/index.m3u8
+235*title*广东卫视        【高清】
+235*played*0
+236*file*http://122.96.52.11:8080/gitv_live/GDWS-HD/GDWS-HD.m3u8
+236*title*广东卫视        【高清】
+236*played*0
+237*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000103&playtoken=31604AAZZAEAPZZ1&auth=no
+237*title*广东卫视        【高清】
+237*played*0
+238*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel28/400.m3u8
+238*title*江西卫视
+238*played*0
+239*file*http://122.96.52.11:8080/gitv_live/JXWS/JXWS.m3u8
+239*title*江西卫视
+239*played*0
+240*file*http://111.13.42.8/PLTV/88888888/224/3221225888/index.m3u8
+240*title*江西卫视
+240*played*0
+241*file*http://111.13.42.8/PLTV/88888888/224/3221225754/index.m3u8
+241*title*江西卫视
+241*played*0
+242*file*http://111.13.42.8/PLTV/88888888/224/3221226060/index.m3u8
+242*title*江西卫视
+242*played*0
+243*file*http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225564/index.m3u8
+243*title*江西卫视
+243*played*0
+244*file*http://111.13.42.8/PLTV/88888888/224/3221225748/index.m3u8
+244*title*河北卫视
+244*played*0
+245*file*http://122.96.52.11:8080/gitv_live/G_HEBEI/G_HEBEI.m3u8
+245*title*河北卫视
+245*played*0
+246*file*http://111.13.42.8/PLTV/88888888/224/3221226057/index.m3u8
+246*title*河北卫视
+246*played*0
+247*file*http://111.13.42.8/PLTV/88888888/224/3221225881/index.m3u8
+247*title*河北卫视
+247*played*0
+248*file*http://183.207.248.8:80/PLTV/3/224/3221225602/index.m3u8
+248*title*河北卫视
+248*played*0
+249*file*http://weblive.hebtv.com/live/hbws_lc/index.m3u8
+249*title*河北卫视
+249*played*0
+250*file*http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+250*title*河北卫视    【高清】
+250*played*0
+251*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000019&playtoken=31604AAZZAEAPZZ1&auth=no
+251*title*河北卫视
+251*played*0
+252*file*http://111.13.42.8/PLTV/88888888/224/3221225883/index.m3u8
+252*title*黑龙江卫视
+252*played*0
+253*file*http://111.13.42.8/PLTV/88888888/224/3221225776/index.m3u8
+253*title*黑龙江卫视
+253*played*0
+254*file*http://111.13.42.8/PLTV/88888888/224/3221226015/index.m3u8
+254*title*黑龙江卫视
+254*played*0
+255*file*http://183.207.248.8:80/PLTV/3/224/3221225652/index.m3u8
+255*title*黑龙江卫视
+255*played*0
+256*file*http://122.96.52.11:8080/gitv_live/HLJWS-HD/HLJWS-HD.m3u8
+256*title*黑龙江卫视    【高清】
+256*played*0
+257*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000102&playtoken=31604AAZZAEAPZZ1&auth=no
+257*title*黑龙江卫视    【高清】
+257*played*0
+258*file*rtmp://livertmp-al.wasu.cn/live2/hd_hljws
+258*title*黑龙江卫视    【高清】
+258*played*0
+259*file*http://111.13.42.8/PLTV/88888888/224/3221225898/index.m3u8
+259*title*四川卫视
+259*played*0
+260*file*http://111.13.42.8/PLTV/88888888/224/3221226000/index.m3u8
+260*title*四川卫视
+260*played*0
+261*file*http://111.13.42.8/PLTV/88888888/224/3221225778/index.m3u8
+261*title*四川卫视
+261*played*0
+262*file*http://122.96.52.11:8080/gitv_live/SCWS/SCWS.m3u8
+262*title*四川卫视
+262*played*0
+263*file*http://183.207.248.8:80/PLTV/3/224/3221225570/index.m3u8
+263*title*四川卫视
+263*played*0
+264*file*http://36.111.42.44:81/hls/live-scws-021/stream800/index.m3u8
+264*title*四川卫视
+264*played*0
+265*file*http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R58466B04U387E6625K7735CA24M2FF85C5W3078869&verifycode=2000000610&playtoken=ABCDEFGH&programid=4200000138
+265*title*四川卫视        【高清】
+265*played*0
+266*file*http://183.207.248.8:80/PLTV/3/224/3221225594/index.m3u8
+266*title*重庆卫视
+266*played*0
+267*file*rtmp://113.207.29.195/app_2/ls_1.stream
+267*title*重庆卫视
+267*played*0
+268*file*http://122.96.52.11:8080/gitv_live/G_CHONGQING/G_CHONGQING.m3u8
+268*title*重庆卫视
+268*played*0
+269*file*http://111.13.42.8/PLTV/88888888/224/3221225904/index.m3u8
+269*title*重庆卫视
+269*played*0
+270*file*http://111.13.42.8/PLTV/88888888/224/3221225994/index.m3u8
+270*title*重庆卫视
+270*played*0
+271*file*http://111.13.42.8/PLTV/88888888/224/3221225737/index.m3u8
+271*title*重庆卫视
+271*played*0
+272*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000100&playtoken=31604AAZZAEAPZZ1&auth=no
+272*title*重庆卫视        【高清】
+272*played*0
+273*file*http://183.207.248.8:80/PLTV/3/224/3221225632/index.m3u8
+273*title*河南卫视
+273*played*0
+274*file*http://122.96.52.11:8080/gitv_live/HENAN/HENAN.m3u8
+274*title*河南卫视
+274*played*0
+275*file*http://111.13.42.8/PLTV/88888888/224/3221225882/index.m3u8
+275*title*河南卫视
+275*played*0
+276*file*http://111.13.42.8/PLTV/88888888/224/3221226016/index.m3u8
+276*title*河南卫视
+276*played*0
+277*file*http://111.13.42.8/PLTV/88888888/224/3221225740/index.m3u8
+277*title*河南卫视
+277*played*0
+278*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000020&playtoken=31604AAZZAEAPZZ1&auth=no
+278*title*河南卫视
+278*played*0
+279*file*http://117.158.208.90:9600/live/live1/500K/tzwj_video.m3u8
+279*title*河南卫视        【高清】
+279*played*0
+280*file*http://111.13.42.8/PLTV/88888888/224/3221225892/index.m3u8
+280*title*宁夏卫视
+280*played*0
+281*file*http://111.13.42.8/PLTV/88888888/224/3221225741/index.m3u8
+281*title*宁夏卫视
+281*played*0
+282*file*http://111.13.42.8/PLTV/88888888/224/3221226006/index.m3u8
+282*title*宁夏卫视
+282*played*0
+283*file*http://122.96.52.11:8080/gitv_live/G_NINGXIA/G_NINGXIA.m3u8
+283*title*宁夏卫视
+283*played*0
+284*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000028&playtoken=31604AAZZAEAPZZ1&auth=no
+284*title*宁夏卫视
+284*played*0
+285*file*http://183.207.248.8:80/PLTV/3/224/3221225626/index.m3u8
+285*title*陕西卫视
+285*played*0
+286*file*http://m3u8-1.live.snrtv.com/sxbc/sxbc-star/index.m3u8
+286*title*陕西卫视
+286*played*0
+287*file*http://117.169.120.209:8080/ysten-businessmobile/live/shanxi1stv/astv.m3u8
+287*title*陕西卫视
+287*played*0
+288*file*http://111.13.42.8/PLTV/88888888/224/3221225896/index.m3u8
+288*title*陕西卫视
+288*played*0
+289*file*http://111.13.42.8/PLTV/88888888/224/3221225742/index.m3u8
+289*title*陕西卫视
+289*played*0
+290*file*http://111.13.42.8/PLTV/88888888/224/3221226002/index.m3u8
+290*title*陕西卫视
+290*played*0
+291*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000017&playtoken=31604AAZZAEAPZZ1&auth=no
+291*title*陕西卫视
+291*played*0
+292*file*http://183.207.248.8:80/PLTV/3/224/3221225590/index.m3u8
+292*title*甘肃卫视
+292*played*0
+293*file*http://111.13.42.8/PLTV/88888888/224/3221225877/index.m3u8
+293*title*甘肃卫视
+293*played*0
+294*file*http://111.13.42.8/PLTV/88888888/224/3221225745/index.m3u8
+294*title*甘肃卫视
+294*played*0
+295*file*http://111.13.42.8/PLTV/88888888/224/3221226054/index.m3u8
+295*title*甘肃卫视
+295*played*0
+296*file*http://stream.gstv.com.cn/gsws/hd/live.m3u8
+296*title*甘肃卫视
+296*played*0
+297*file*http://122.96.52.11:8080/gitv_live/G_GANSU/G_GANSU.m3u8
+297*title*甘肃卫视
+297*played*0
+298*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000030&playtoken=31604AAZZAEAPZZ1&auth=no
+298*title*甘肃卫视
+298*played*0
+299*file*http://111.13.42.8/PLTV/88888888/224/3221225891/index.m3u8
+299*title*内蒙古卫视
+299*played*0
+300*file*http://111.13.42.8/PLTV/88888888/224/3221225760/index.m3u8
+300*title*内蒙古卫视
+300*played*0
+301*file*http://111.13.42.8/PLTV/88888888/224/3221226007/index.m3u8
+301*title*内蒙古卫视
+301*played*0
+302*file*http://122.96.52.11:8080/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8
+302*title*内蒙古卫视
+302*played*0
+303*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000023&playtoken=31604AAZZAEAPZZ1&auth=no
+303*title*内蒙古卫视
+303*played*0
+304*file*http://220.167.81.55/PLTV/88888888/224/3221226072/10000100000000060000000000076504_0.smil
+304*title*内蒙古卫视
+304*played*0
+305*file*http://itv.3gtech.cn/hls/fjtv/hxws.m3u8
+305*title*海峡卫视        【高清】
+305*played*0
+306*file*http://183.207.248.8:80/PLTV/3/224/3221225598/index.m3u8
+306*title*东南卫视
+306*played*0
+307*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel27/700.m3u8
+307*title*东南卫视
+307*played*0
+308*file*http://122.96.52.11:8080/gitv_live/DNWS/DNWS.m3u8
+308*title*东南卫视
+308*played*0
+309*file*http://111.13.42.8/PLTV/88888888/224/3221225876/index.m3u8
+309*title*东南卫视
+309*played*0
+310*file*http://111.13.42.8/PLTV/88888888/224/3221226053/index.m3u8
+310*title*东南卫视
+310*played*0
+311*file*http://111.13.42.8/PLTV/88888888/224/3221225756/index.m3u8
+311*title*东南卫视
+311*played*0
+312*file*http://220.167.81.55/PLTV/88888888/224/3221226251/00000100000000060000000000035220_0.smil
+312*title*东南卫视
+312*played*0
+313*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000022&playtoken=31604AAZZAEAPZZ1&auth=no
+313*title*东南卫视
+313*played*0
+314*file*http://itv.3gtech.cn/hls/fjtv/dnws.m3u8
+314*title*东南卫视        【高清】
+314*played*0
+315*file*http://111.13.42.8/PLTV/88888888/224/3221225902/index.m3u8
+315*title*云南卫视
+315*played*0
+316*file*http://111.13.42.8/PLTV/88888888/224/3221225751/index.m3u8
+316*title*云南卫视
+316*played*0
+317*file*http://111.13.42.8/PLTV/88888888/224/3221225996/index.m3u8
+317*title*云南卫视
+317*played*0
+318*file*http://183.207.249.7/PLTV/3/224/3221225591/index.m3u8
+318*title*云南卫视
+318*played*0
+319*file*http://61.166.153.32:1180/play/playback/90000001000000050000000000000263/live100001.m3u8
+319*title*云南卫视        【高清】
+319*played*0
+320*file*http://cdn002.iptv.yninfo.com:1180/play/playback/90000001000000050000000000000263/live100001.m3u8
+320*title*云南卫视        【高清】
+320*played*0
+321*file*http://111.13.42.8/PLTV/88888888/224/3221225880/index.m3u8
+321*title*贵州卫视
+321*played*0
+322*file*http://111.13.42.8/PLTV/88888888/224/3221225757/index.m3u8
+322*title*贵州卫视
+322*played*0
+323*file*http://111.13.42.8/PLTV/88888888/224/3221226056/index.m3u8
+323*title*贵州卫视
+323*played*0
+324*file*http://183.207.248.8:80/PLTV/3/224/3221225540/index.m3u8
+324*title*贵州卫视
+324*played*0
+325*file*http://122.96.52.11:8080/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8
+325*title*贵州卫视
+325*played*0
+325*duration2*61
+326*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000015&playtoken=31604AAZZAEAPZZ1&auth=no
+326*title*贵州卫视
+326*played*0
+327*file*http://220.167.81.55/PLTV/88888888/224/3221226491/10000100000000060000000000076425_0.smil
+327*title*贵州卫视
+327*played*0
+328*file*http://111.13.42.8/PLTV/88888888/224/3221225928/index.m3u8
+328*title*贵州卫视        【高清】
+328*played*0
+329*file*http://183.207.248.8:80/PLTV/3/224/3221225576/index.m3u8
+329*title*山西卫视
+329*played*0
+330*file*http://122.96.52.11:8080/gitv_live/SXWS/SXWS.m3u8
+330*title*山西卫视
+330*played*0
+331*file*http://111.13.42.8/PLTV/88888888/224/3221225895/index.m3u8
+331*title*山西卫视
+331*played*0
+332*file*http://111.13.42.8/PLTV/88888888/224/3221226003/index.m3u8
+332*title*山西卫视
+332*played*0
+333*file*http://111.13.42.8/PLTV/88888888/224/3221225739/index.m3u8
+333*title*山西卫视
+333*played*0
+334*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000025&playtoken=31604AAZZAEAPZZ1&auth=no
+334*title*山西卫视
+334*played*0
+335*file*http://111.13.42.8/PLTV/88888888/224/3221225886/index.m3u8
+335*title*吉林卫视
+335*played*0
+336*file*http://111.13.42.8/PLTV/88888888/224/3221226012/index.m3u8
+336*title*吉林卫视
+336*played*0
+337*file*http://183.207.248.71/gitv/live1/G_JILIN/G_JILIN
+337*title*吉林卫视
+337*played*0
+338*file*http://183.207.248.8:80/PLTV/3/224/3221225589/index.m3u8
+338*title*吉林卫视
+338*played*0
+339*file*http://36.111.42.44:81/hls/live-jlws-019/stream800/index.m3u8
+339*title*吉林卫视
+339*played*0
+340*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel25/700.m3u8
+340*title*吉林卫视
+340*played*0
+341*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000018&playtoken=31604AAZZAEAPZZ1&auth=no
+341*title*吉林卫视
+341*played*0
+342*file*http://111.13.42.8/PLTV/88888888/224/3221225879/index.m3u8
+342*title*广西卫视
+342*played*0
+343*file*http://111.13.42.8/PLTV/88888888/224/3221226019/index.m3u8
+343*title*广西卫视
+343*played*0
+344*file*http://111.13.42.8/PLTV/88888888/224/3221225750/index.m3u8
+344*title*广西卫视
+344*played*0
+345*file*http://36.111.42.44:81/hls/live-gxws-015/stream800/index.m3u8
+345*title*广西卫视
+345*played*0
+345*duration2*41
+346*file*http://183.207.248.8:80/PLTV/3/224/3221225554/index.m3u8
+346*title*广西卫视
+346*played*0
+347*file*http://122.96.52.11:8080/gitv_live/GXWS/GXWS.m3u8
+347*title*广西卫视
+347*played*0
+348*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000016&playtoken=31604AAZZAEAPZZ1&auth=no
+348*title*广西卫视
+348*played*0
+349*file*http://111.13.42.8/PLTV/88888888/224/3221225890/index.m3u8
+349*title*旅游卫视
+349*played*0
+350*file*http://111.13.42.8/PLTV/88888888/224/3221226008/index.m3u8
+350*title*旅游卫视
+350*played*0
+351*file*http://183.207.248.8:80/PLTV/3/224/3221225585/index.m3u8
+351*title*旅游卫视
+351*played*0
+352*file*http://122.96.52.11:8080/gitv_live/LYWS/LYWS.m3u8
+352*title*旅游卫视
+352*played*0
+353*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000026&playtoken=31604AAZZAEAPZZ1&auth=no
+353*title*旅游卫视
+353*played*0
+354*file*http://stream1.hnntv.cn/lywsgq/sd/live.m3u8
+354*title*旅游卫视        【高清】
+354*played*0
+355*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000033&playtoken=31604AAZZAEAPZZ1&auth=no
+355*title*兵团卫视
+355*played*0
+356*file*rtmp://v.btzx.com.cn/live/weishi.stream
+356*title*兵团卫视
+356*played*0
+357*file*rtmp://v.btzx.com.cn/live/news.stream
+357*title*兵团综合
+357*played*0
+358*file*http://111.13.42.8/PLTV/88888888/224/3221225764/index.m3u8
+358*title*农林卫视
+358*played*0
+359*file*http://m3u8-2.live.snrtv.com/sxbc/sxbc-nl/index.m3u8
+359*title*农林卫视
+359*played*0
+360*file*http://117.169.120.209:8080/ysten-businessmobile/live/nonglinstv/dujuejiami.m3u8
+360*title*农林卫视
+360*played*0
+361*file*http://tvplus.stream.lingnantv.com/hls/15161700/xmws/2.m3u8
+361*title*厦门卫视
+361*played*0
+362*file*http://tm.ws.live.cntv.cn/cache/524_/seg0/index.m3u8
+362*title*厦门卫视
+362*played*0
+363*file*http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv1.m3u8
+363*title*新疆卫视
+363*played*0
+364*file*http://183.207.248.8:80/PLTV/3/224/3221225523/index.m3u8
+364*title*新疆卫视
+364*played*0
+365*file*http://111.13.42.8/PLTV/88888888/224/3221225901/index.m3u8
+365*title*新疆卫视
+365*played*0
+366*file*http://111.13.42.8/PLTV/88888888/224/3221225997/index.m3u8
+366*title*新疆卫视
+366*played*0
+367*file*http://111.13.42.8/PLTV/88888888/224/3221225900/index.m3u8
+367*title*西藏卫视
+367*played*0
+368*file*http://111.13.42.8/PLTV/88888888/224/3221225998/index.m3u8
+368*title*西藏卫视
+368*played*0
+369*file*http://183.207.248.8:80/PLTV/3/224/3221225579/index.m3u8
+369*title*西藏卫视
+369*played*0
+370*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000034&playtoken=31604AAZZAEAPZZ1&auth=no
+370*title*西藏卫视
+370*played*0
+370*thumbnail*https://i.ytimg.com/vi/g9uJqP0hT_I/maxresdefault.jpg
+371*file*rtmp://video.vtibet.com/masvod/zangyuTV_q1
+371*title*藏语卫视
+371*played*0
+372*file*http://111.13.42.8/PLTV/88888888/224/3221225893/index.m3u8
+372*title*青海卫视
+372*played*0
+373*file*http://111.13.42.8/PLTV/88888888/224/3221226062/index.m3u8
+373*title*青海卫视
+373*played*0
+374*file*http://183.207.248.8:80/PLTV/3/224/3221225580/index.m3u8
+374*title*青海卫视
+374*played*0
+375*file*http://220.167.81.55/PLTV/88888893/224/3221226406/10000100000000060000000000603023_0.smil
+375*title*康巴卫视
+375*played*0
+376*file*http://stream1.hnntv.cn/ssws/sd/live.m3u8
+376*title*三沙卫视
+376*played*0
+377*file*http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000035&playtoken=31604AAZZAEAPZZ1&auth=no
+377*title*延边卫视
+377*played*0
+378*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel32/700.m3u8
+378*title*篮球
+378*played*0
+379*file*http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9WEZQWU1QUDM2MCZ1cmxfYzE9MjYjlmMWFkZjZmJm50dGw9MyZuY21za,/XFPYMPP360.m3u8
+379*title*先锋乒羽
+379*played*0
+380*file*http://live.gslb.letv.com/gslb?stream_id=lb_gslqpd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
+380*title*（乐视）篮球
+380*played*0
+381*file*http://live.gslb.letv.com/gslb?stream_id=lb_sports_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=3
+381*title*（乐视）体育
+381*played*0
+382*file*http://live.gslb.letv.com/gslb?stream_id=lb_rhdy_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
+382*title*（乐视）日韩电影
+382*played*0
+383*file*http://live.gslb.letv.com/gslb?stream_id=lb_dsjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
+383*title*（乐视）都市剧场
+383*played*0
+384*file*http://live.gslb.letv.com/gslb?stream_id=lb_gdjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
+384*title*（乐视）宫斗剧场
+384*played*0
+385*file*http://live.gslb.letv.com/gslb?stream_id=lb_myzqjx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
+385*title*（乐视）亲子台
+385*played*0
+386*file*http://36.111.42.44:81/hls/live-gdty-004/stream800/index.m3u8
+386*title*广东体育
+386*played*0
+387*file*http://183.207.249.15/PLTV/3/224/3221225543/index.m3u8
+387*title*New TV 精品体育
+387*played*0
+388*file*http://183.207.249.7/PLTV/3/224/3221225529/index.m3u8
+388*title*New TV 动作电影
+388*played*0
+389*file*http://183.207.249.7/PLTV/3/224/3221225535/index.m3u8
+389*title*New TV 明星大片
+389*played*0
+390*file*http://183.207.249.7/PLTV/3/224/3221225567/index.m3u8
+390*title*New TV 精品电影
+390*played*0
+391*file*http://183.207.249.7/PLTV/3/224/3221225561/index.m3u8
+391*title*New TV 惊悚悬疑
+391*played*0
+392*file*http://183.207.249.7/PLTV/3/224/3221225547/index.m3u8
+392*title*New TV 海外剧场
+392*played*0
+393*file*http://183.207.249.7/PLTV/3/224/3221225527/index.m3u8
+393*title*New TV 古装剧场
+393*played*0
+394*file*http://183.207.249.7/PLTV/3/224/3221225549/index.m3u8
+394*title*New TV 家庭剧场
+394*played*0
+395*file*http://183.207.249.15/PLTV/3/224/3221225525/index.m3u8
+395*title*New TV 爱情喜剧
+395*played*0
+396*file*http://183.207.249.7/PLTV/3/224/3221225531/index.m3u8
+396*title*New TV 军旅剧场
+396*played*0
+397*file*http://183.207.249.7/PLTV/3/224/3221225591/index.m3u8
+397*title*New TV 精品大剧
+397*played*0
+398*file*http://183.207.249.7/PLTV/3/224/3221225557/index.m3u8
+398*title*New TV 精品记录
+398*played*0
+399*file*http://183.207.249.7/PLTV/3/224/3221225559/index.m3u8
+399*title*New TV 精品综艺
+399*played*0
+400*file*http://183.207.249.7/PLTV/3/224/3221225533/index.m3u8
+400*title*New TV 军事评论
+400*played*0
+401*file*http://183.207.249.7/PLTV/3/224/3221225545/index.m3u8
+401*title*New TV 健康有约
+401*played*0
+402*file*http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
+402*title*New TV 动画王国
+402*played*0
+403*file*http://183.207.249.15/PLTV/3/224/3221225537/index.m3u8
+403*title*New TV 农业致富
+403*played*0
+404*file*http://223.110.245.139:80/PLTV/3/224/3221226935/index.m3u8
+404*title*New TV 中国功夫
+404*played*0
+405*file*http://vod.cache.cmvideo.cn:8088/wd_r2/ocn/dongfangdianyinghd/1200/01.m3u8?msisdn=0466766575550&mdspid=&spid=800033&netType=1&sid=5500186755&pid=2028597139&timestamp=20170316110003&SecurityKey=20170316110003&Channel_ID=1004_10010001005&ProgramID=623674834&ParentNodeID=-99&assertID=5500186755&mtv_session=9f3f878ac800ba40032fd75f06f03a9d&HlsSubType=1&HlsProfileId=1&encrypt=7440becee04a4d4e2d290c2a8f455fa9
+405*title*东方电影
+405*played*0
+406*file*http://182.128.24.170/PLTV/88888896/224/3221227951/10000100000000060000000003709052_0.smil
+406*title*峨眉电影【高清】
+406*played*0
+407*file*http://ivi.bupt.edu.cn/hls/chchd.m3u8
+407*title*CHC 高清电影
+407*played*0
+408*file*http://hbly.chinashadt.com:2036/live/1004.stream/playlist.m3u8
+408*title*CHC 动作电影
+408*played*0
+409*file*http://hbmc.chinashadt.com:2739/live/dzdy.stream_360p/playlist.m3u8
+409*title*CHC 动作电影
+409*played*0
+410*file*http://dlhls.cdn.zhanqi.tv/zqlive/45338_MRc2N.m3u8
+410*title*放映厅-1
+410*played*0
+411*file*http://dlhls.cdn.zhanqi.tv/zqlive/24163_v7WWQ.m3u8
+411*title*放映厅-2
+411*played*0
+412*file*http://dlhls.cdn.zhanqi.tv/zqlive/34822_KA3zE.m3u8
+412*title*放映厅-3
+412*played*0
+413*file*http://dlhls.cdn.zhanqi.tv/zqlive/114456_Mwgo9.m3u8
+413*title*放映厅-4
+413*played*0
+414*file*http://alhdl.cdn.zhanqi.tv/zqlive/100728_Gz8dX.flv
+414*title*放映厅-5
+414*played*0
+415*file*http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
+415*title*放映厅-6
+415*played*0
+416*file*http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+416*title*放映厅-7
+416*played*0
+417*file*http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+417*title*放映厅-8
+417*played*0
+418*file*http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
+418*title*放映厅-9
+418*played*0
+419*file*http://dlhls.cdn.zhanqi.tv/zqlive/45338_MRc2N.m3u8
+419*title*放映厅-10
+419*played*0
+420*file*http://dlhls.cdn.zhanqi.tv/zqlive/56108_JxHhQ.m3u8
+420*title*放映厅-11
+420*played*0
+421*file*http://dlhls.cdn.zhanqi.tv/zqlive/156399_rPwCP.m3u8
+421*title*放映厅-13
+421*played*0
+422*file*http://dlhls.cdn.zhanqi.tv/zqlive/90819_iMmHS.m3u8
+422*title*放映厅-14
+422*played*0
+423*file*http://dlhls.cdn.zhanqi.tv/zqlive/236823_yArlY.m3u8
+423*title*放映厅-15
+423*played*0
+424*file*http://dlhls.cdn.zhanqi.tv/zqlive/181869_nWqp2.m3u8
+424*title*放映厅-16
+424*played*0
+425*file*http://dlhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
+425*title*放映厅-17
+425*played*0
+426*file*http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+426*title*放映厅-18
+426*played*0
+427*file*http://dlhls.cdn.zhanqi.tv/zqlive/215485_JCdDr.m3u8
+427*title*放映厅-19
+427*played*0
+428*file*http://dlhls.cdn.zhanqi.tv/zqlive/113044_4l4ji.m3u8
+428*title*放映厅-20
+428*played*0
+429*file*http://dlhls.cdn.zhanqi.tv/zqlive/110022_bHHGU.m3u8
+429*title*放映厅-21
+429*played*0
+430*file*http://dlhls.cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8
+430*title*放映厅-22
+430*played*0
+431*file*http://dlhls.cdn.zhanqi.tv/zqlive/238801_HpTgi.m3u8
+431*title*放映厅-23
+431*played*0
+432*file*http://dlhls.cdn.zhanqi.tv/zqlive/121008_VrwBK.m3u8
+432*title*放映厅-24
+432*played*0
+433*file*http://flv15.quanmin.tv/live/1509543480.flv
+433*title*放映厅-25
+433*played*0
+434*file*http://flv15.quanmin.tv/live/2065688930.flv
+434*title*放映厅-26
+434*played*0
+435*file*http://dlhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
+435*title*放映厅-27
+435*played*0
+436*file*http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
+436*title*放映厅-28
+436*played*0
+437*file*http://flv15.quanmin.tv/live/1715337274.flv
+437*title*放映厅-29
+437*played*0
+438*file*http://live-sh-hdl.huomaotv.cn/hmlive/4bgtCR24082.flv
+438*title*放映厅-30
+438*played*0
+439*file*http://221.179.217.94/PLTV/88888888/224/3221225942/index.m3u8
+439*title*港澳台  ★  凤凰中文  HD   线路 1
+439*played*0
+440*file*http://117.169.120.209:8080/ysten-businessmobile/live/fhchinese/dujuejiami.m3u8
+440*title*港澳台  ★  凤凰中文  HD   线路 2
+440*played*0
+441*file*http://183.207.249.10/PLTV/3/224/3221226922/index.m3u8
+441*title*港澳台  ★  凤凰中文  HD   线路 3
+441*played*0
+442*file*http://111.13.42.8/PLTV/88888888/224/3221225942/index.m3u8
+442*title*港澳台  ★  凤凰中文  HD   线路 4
+442*played*0
+443*file*http://223.110.245.139:80/PLTV/3/224/3221226975/index.m3u8
+443*title*港澳台  ★  凤凰中文  HD   线路 5
+443*played*0
+444*file*http://183.251.61.221/PLTV/88888888/224/3221225901/index.m3u8
+444*title*港澳台  ★  凤凰资讯  HD   线路 1
+444*played*0
+445*file*http://117.169.120.209:8080/ysten-businessmobile/live/fhzixun/dujuejiami.m3u8
+445*title*港澳台  ★  凤凰资讯  HD   线路 2
+445*played*0
+446*file*http://183.207.249.10/PLTV/3/224/3221226923/index.m3u8
+446*title*港澳台  ★  凤凰资讯  HD   线路 3
+446*played*0
+447*file*http://111.13.42.8/PLTV/88888888/224/3221225941/index.m3u8
+447*title*港澳台  ★  凤凰资讯  HD   线路 4
+447*played*0
+448*file*http://111.13.42.8/PLTV/88888888/224/3221225954/index.m3u8
+448*title*港澳台  ★  凤凰香港  HD   线路 1
+448*played*0
+449*file*http://221.179.217.94/PLTV/88888888/224/3221225954/index.m3u8
+449*title*港澳台  ★  凤凰香港  HD   线路 2
+449*played*0
+450*file*http://fms.cntv.lxdns.com/live/flv/channel84.flv
+450*title*港澳台  ★  香港卫视
+450*played*0
+451*file*http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
+451*title*港澳台  ★  香港卫视
+451*played*0
+451*duration2*49
+452*file*http://live.mastvnet.com/n1rtlHG/500/live.m3u8
+452*title*港澳台  ★  澳亚卫视
+452*played*0
+453*file*http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
+453*title*港澳台  ★  壹新闻
+453*played*0
+454*file*http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
+454*title*港澳台  ★  壹新闻
+454*played*0
+455*file*http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+455*title*港澳台  ★  壹新闻
+455*played*0
+456*file*rtmp://3xhtut.live1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c
+456*title*港澳台  ★  澳门莲花
+456*played*0
+457*file*http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/aomenlianhua/.m3u8
+457*title*港澳台  ★  澳门莲花
+457*played*0
+458*file*http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/huayutv/.m3u8
+458*title*港澳台  ★  华娱卫视
+458*played*0
+459*file*http://111.13.42.8/PLTV/88888888/224/3221225953/index.m3u8
+459*title*港澳台  ★  阳光卫视
+459*played*0
+460*file*http://117.169.120.209:8080/ysten-businessmobile/live/yangguangstv/1.m3u8
+460*title*港澳台  ★  阳光卫视
+460*played*0
+461*file*http://mvtv.dyndns.tv:1935/live/mgtv/playlist.m3u8
+461*title*港澳台  ★  东盟卫视
+461*played*0
+462*file*http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/playlist.m3u8
+462*title*港澳台  ★  宏观卫视
+462*played*0
+463*file*rtmp://tv.unbtv.tv/app_2/ls_1.stream
+463*title*港澳台  ★  亚洲联合卫视
+463*played*0
+464*file*http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
+464*title*港澳台  ★  亚洲联合卫视
+464*played*0
+465*file*http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+465*title*港澳台  ★  香港有线 31 台
+465*played*0
+466*file*http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+466*title*港澳台  ★  香港有线 32 台
+466*played*0
+467*file*rtmp://live4.tdm.com.mo/ch1/_definst_/ch1.live
+467*title*港澳台  ★  澳视澳门
+467*played*0
+468*file*rtmp://live4.tdm.com.mo/ch3/_definst_/ch3.live
+468*title*港澳台  ★  澳门卫视
+468*played*0
+469*file*http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+469*title*港澳台  ★  澳门资讯
+469*played*0
+470*file*rtmp://live4.tdm.com.mo/ch5/_definst_/info_ch5.live
+470*title*港澳台  ★  澳门资讯
+470*played*0
+471*file*rtmp://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live
+471*title*港澳台  ★  澳视体育
+471*played*0
+472*file*http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
+472*title*港澳台  ★  澳视高清
+472*played*0
+473*file*rtmp://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live
+473*title*港澳台  ★  澳视高清
+473*played*0
+474*file*rtmp://live4.tdm.com.mo/ch2/_definst_/ch2.live
+474*title*港澳台  ★  澳视
+474*played*0
+475*file*http://27.254.63.162/stream/totnew.php?channel_id=0518392dc56246e1808c211c796d5e84
+475*title*港澳台  ★  东盟卫视
+475*played*0
+476*file*http://210.209.3.1:80/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&size=720X480
+476*title*港澳台  ★  番薯台
+476*played*0
+477*file*rtmp://media3.sinovision.net:1935/live/livestream
+477*title*国外     美国中文电视
+477*played*0
+478*file*http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+478*title*国外     体育  欧洲体育台
+478*played*0
+479*file*http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1000.m3u8
+479*title*国外     体育  欧洲体育  法国
+479*played*0
+480*file*rtmp://176.9.127.102/live/myStream_1
+480*title*国外     CS卫视
+480*played*0
+481*file*http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
+481*title*国外     1 HD Music
+481*played*0
+482*file*http://203.146.129.233:1935/live/mp4:suwan/playlist.m3u8
+482*title*国外     泰国SUVARNABHUMI
+482*played*0
+483*file*rtmp://203.156.63.20:1935/live/ddtv
+483*title*国外     泰国DDTV
+483*played*0
+484*file*http://tv.life.ru/lifetv/720p/index.m3u8
+484*title*国外     俄罗斯生活台
+484*played*0
+485*file*http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+485*title*国外     DW  德国之声
+485*played*0
+486*file*http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+486*title*国外     法国  FANCE24
+486*played*0
+487*file*http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+487*title*国外     英国  BBC-WORLD-NEWS
+487*played*0
+488*file*http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+488*title*国外     英国  天空新闻台
+488*played*0
+489*file*http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+489*title*国外     英国  伦敦直播
+489*played*0
+490*file*http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+490*title*国外     美国  ABC新闻
+490*played*0
+491*file*http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+491*title*国外     KroneHIT Music FHD
+491*played*0
+492*file*http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u
+492*title*国外     NIU TV
+492*played*0
+493*file*http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1888852998_b2628000_sleng.m3u8
+493*title*国外     26HD
+493*played*0
+494*file*http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+494*title*国外     CNN Chile
+494*played*0
+495*file*rtmp://edge1.everyon.tv/etv1/phd1289
+495*title*国外     韩国  my pet TV
+495*played*0
+496*file*http://edge2.everyon.tv/etv2sb/phd743/playlist.m3u8
+496*title*国外     韩国  PLAYY-1
+496*played*0
+497*file*http://edge2.everyon.tv/etv2sb/phd770/chunklist_w262708083.m3u8
+497*title*国外     韩国  PLAYY-2
+497*played*0
+498*file*http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+498*title*国外     韩国  Gong
+498*played*0
+499*file*rtmp://218.38.152.69:1935/da_live/72136989/mp4:ch001
+499*title*国外     韩国  KoreaTV
+499*played*0
+500*file*rtmp://218.38.152.31:1935/klive/klive.stream
+500*title*国外     韩国  KoreaTV
+500*played*0
+501*file*rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream
+501*title*国外     韩国  CBS
+501*played*0
+502*file*http://edge2.everyon.tv/etv2sb/phd27/playlist.m3u8
+502*title*国外     韩国  CBS
+502*played*0
+503*file*http://edge2.everyon.tv/etv2/phd12/playlist.m3u8
+503*title*国外     韩国  FTV
+503*played*0
+504*file*http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+504*title*国外     韩国  EBS1
+504*played*0
+505*file*http://pull.a8.com/live/tvj.flv
+505*title*国外     KTV HD
+505*played*0
+506*file*rtmp://stream.visit-x.tv/vxtv/live_720p
+506*title*国外     VISIT-X TV
+506*played*0
+507*file*http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/10/1433923712941_962055/playlist.m3u8
+507*title*电影-悬战
+507*played*0
+508*file*http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/1432782476341_377935/playlist.m3u8
+508*title*电影-公路美人
+508*played*0
+509*file*http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist.m3u8
+509*title*电影-非常营救
+509*played*0
+509*start*75617
+510*file*http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/01/1433146056644_381163/playlist.m3u8
+510*title*电影-涉足荒野
+510*played*0
+511*file*http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8
+511*title*电影-博物馆奇妙夜-3
+511*played*0
+511*start*3472
+512*file*http://vipvideo.ifeng.com/video02/2013/03/18/31282b1a-70a0-427e-b2d0-b1a357281849.mp4?start={start_seconds}
+512*title*真实的惊悚 ★  狼人
+512*played*0
+513*file*http://vipvideo.ifeng.com/video02/2013/03/29/d14c1212-3551-4848-9819-2cf85e505d93.mp4?start={start_seconds}
+513*title*真实的惊悚 ★  德古拉
+513*played*0
+514*file*http://vipvideo.ifeng.com/video02/2013/03/29/5a4807b2-23f5-43f7-8bd9-6c59dafdebc6.mp4?start={start_seconds}
+514*title*真实的惊悚 ★  科学怪人
+514*played*0
+515*file*http://mglive.migucloud.com/222/9PJLLW1X_C0_2.m3u8
+515*title*少儿频道     CIBN 动漫
+515*played*0
+516*file*http://116.213.200.53/tslsChannelLive/PCG0DuD.m3u8
+516*title*生活服务     中经电视
+516*played*0
+517*file*http://dlhls.cdn.zhanqi.tv/zqlive/36596_HD3eX.m3u8
+517*title*游戏频道     战旗TV
+517*played*0
+518*file*http://w1.livecache.yicai.com/hls/live/CBN_sd/live.m3u8
+518*title*生活服务     第一财经
+518*played*0
+519*file*http://220.167.81.55/PLTV/88888893/224/3221226326/10000100000000060000000000488302_0.smil
+519*title*生活服务     东方财经-浦东
+519*played*0
+520*file*http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+520*title*生活服务     耀才财经
+520*played*0
+521*file*http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9U0hEWU1QUDM2MCZ1cmxfYzE9MjOWExZWU0OTg2Jm50dGw9MyZuY21za,/SHDYMPP360.m3u8
+521*title*生活服务     四海钓鱼
+521*played*0
+522*file*http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9S0xDRE1QUDM2MCZ1cmxfYzE9MjYjFiMTRlZDgxJm50dGw9MyZuY21za,/KLCDMPP360.m3u8
+522*title*生活服务     快乐垂钓
+522*played*0
+523*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel12/index.m3u8
+523*title*生活服务     天元围棋
+523*played*0
+524*file*http://play5.kandian.360.cn/live_news_1500/main_output_m1/index.m3u8
+524*title*地方台     北京时间-直播【高清】
+524*played*0
+525*file*http://hls.live.kksmg.com/live/live24h/playlist.m3u8
+525*title*地方台     上海KNEWS     【高清】
+525*played*0
+526*file*http://hls1.live.kksmg.com/live/live24h/playlist.m3u8
+526*title*地方台     上海KNEWS     【高清】
+526*played*0
+527*file*http://bililive.kksmg.com/hls/stvd6edb9a6_45b34047833af658bf4945a8/playlist.m3u8
+527*title*地方台     上海新闻综合  【高清】
+527*played*0
+528*file*http://hls-live03.kksmg.com/live/xwzh/playlist.m3u8?se=kankan&ct=2&_mode=1&_cp=1&_fk=8279CF965B77DF576E1F6D2D8B9B782870BC8883F45E323AAA63605E70A22B37
+528*title*地方台     上海新闻综合  【高清】
+528*played*0
+529*file*http://chinanet2-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_0QBz005cCd_keyDDEA0D91CBCE1D673C9FCDE494185F790B238B89083AF29FFF49A197D1C6521A_/live/shss/400000/mnf.m3u8
+529*title*地方台     上海星尚
+529*played*0
+530*file*http://chinanet2-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_0QBz005zjV_keyAB07D45314C692E6BDBF63826C14235E1B882EADEA4938002986C6B8B871FFE3_/live/ylpd/400000/mnf.m3u8
+530*title*地方台     上海新娱乐
+530*played*0
+531*file*http://chinanet2-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_0QBz004Pk0_key4171082099280E91C46107F253A4042A0E4865E562891C7B6951EC6103F30916_/live/wypd/400000/mnf.m3u8
+531*title*地方台     上海外语频道
+531*played*0
+532*file*http://chinanet2-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_0QBz005JTA_key4DC3C0C93D6B36BD5F6EF670BF696D382101FC7905179BF44D3F64F46623BB24_/live/ysrw/400000/mnf.m3u8
+532*title*地方台     上海艺术人文
+532*played*0
+533*file*http://chinanet2-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_0QBz005SrE_keyB29D4B288CC8BDE255ECB74257E8F641BC7D3BB13C705D3C1D8C746A09C59917_/live/jspd/400000/mnf.m3u8
+533*title*地方台     上海纪实
+533*played*0
+534*file*http://chinanet2-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_0QBz0064Kr_keyD8F53B0CAA08E86E3FBE1BF4BB90F796DD0BFC75F4E0436280FA34E966A9BD90_/live/dycj/400000/mnf.m3u8
+534*title*地方台     第一财经
+534*played*0
+535*file*rtmp://bililive.kksmg.com/qxlive/pdtv
+535*title*地方台     上海浦东
+535*played*0
+536*file*http://36.111.42.44:81/hls/live-gdxw-002/stream800/index.m3u8
+536*title*地方台     广东新闻
+536*played*0
+537*file*http://36.111.42.44:81/hls/live-gdzj-001/stream800/index.m3u8
+537*title*地方台     广东珠江
+537*played*0
+538*file*http://36.111.42.44:81/hls/live-gdgg-005/stream800/index.m3u8
+538*title*地方台     广东公共
+538*played*0
+539*file*http://tvplus.stream.lingnantv.com/hls/05461057/517.m3u8
+539*title*地方台     TVS-1  南方经济科教HD
+539*played*0
+540*file*http://36.111.42.44:81/hls/live-nfjs-006/stream800/index.m3u8
+540*title*地方台     TVS-1  南方经济科教
+540*played*0
+541*file*http://36.111.42.44:81/hls/live-nfws-007/stream800/index.m3u8
+541*title*地方台     TVS-2  南方卫视
+541*played*0
+542*file*http://36.111.42.44:81/hls/live-nfzy-008/stream800/index.m3u8
+542*title*地方台     TVS-3  南方综艺
+542*played*0
+543*file*http://36.111.42.44:81/hls/live-nfys-009/stream800/index.m3u8
+543*title*地方台     TVS-4  南方影视
+543*played*0
+544*file*http://r.gslb.lecloud.com/live/hls/201612083000002fb99/desc.m3u8
+544*title*地方台     广东卫视
+544*played*0
+545*file*http://r.gslb.lecloud.com/live/hls/201612083000002gt99/desc.m3u8
+545*title*地方台     广东珠江
+545*played*0
+546*file*http://r.gslb.lecloud.com/live/hls/201612083000002i699/desc.m3u8
+546*title*地方台     广东公共
+546*played*0
+547*file*http://r.gslb.lecloud.com/live/hls/201612083000002hi99/desc.m3u8
+547*title*地方台     广东国际
+547*played*0
+548*file*http://r.gslb.lecloud.com/live/hls/201612083000002h899/desc.m3u8
+548*title*地方台     广东新闻
+548*played*0
+549*file*http://r.gslb.lecloud.com/live/hls/201612083000002ic99/desc.m3u8
+549*title*地方台     南方经济科教
+549*played*0
+550*file*http://r.gslb.lecloud.com/live/hls/201612083000002is99/desc.m3u8
+550*title*地方台     南方卫视
+550*played*0
+551*file*http://r.gslb.lecloud.com/live/hls/201612083000002j399/desc.m3u8
+551*title*地方台     南方综艺
+551*played*0
+552*file*http://r.gslb.lecloud.com/live/hls/201612083000002ja99/desc.m3u8
+552*title*地方台     南方影视
+552*played*0
+553*file*http://r.gslb.lecloud.com/live/hls/201612083000002jh99/desc.m3u8
+553*title*地方台     南方少儿
+553*played*0
+554*file*http://r.gslb.lecloud.com/live/hls/201612083000002jl99/desc.m3u8
+554*title*地方台     嘉佳卡通
+554*played*0
+555*file*rtmp://116.199.115.228/live/gztv_tv
+555*title*地方台     广州综合
+555*played*0
+556*file*rtmp://116.199.115.228/live/gztv_new
+556*title*地方台     广州新闻
+556*played*0
+557*file*rtmp://116.199.115.228/live/gztv_sport
+557*title*地方台     广州竞赛
+557*played*0
+558*file*rtmp://116.199.115.228/live/gztv_en
+558*title*地方台     广州生活
+558*played*0
+559*file*rtmp://116.199.115.228/live/gztv_jingji
+559*title*地方台     广州经济
+559*played*0
+560*file*rtmp://116.199.115.228/live/gztv_shaoer
+560*title*地方台     广州少儿
+560*played*0
+561*file*http://www.szmgiptv.com:14436/hls/22.m3u8
+561*title*地方台     深圳娱乐
+561*played*0
+562*file*http://www.szmgiptv.com:14436/hls/08.m3u8
+562*title*地方台     深圳都市
+562*played*0
+563*file*http://www.szmgiptv.com:14436/hls/23.m3u8
+563*title*地方台     深圳公共
+563*played*0
+564*file*http://www.szmgiptv.com:14436/hls/21.m3u8
+564*title*地方台     深圳少儿
+564*played*0
+565*file*http://www.szmgiptv.com:14436/hls/11.m3u8
+565*title*地方台     深圳电视剧
+565*played*0
+566*file*http://www.szmgiptv.com:14436/hls/09.m3u8
+566*title*地方台     深圳DV生活
+566*played*0
+567*file*http://www.szmgiptv.com:14436/hls/24.m3u8
+567*title*地方台     深圳财经生活
+567*played*0
+568*file*http://www.szmgiptv.com:14436/hls/10.m3u8
+568*title*地方台     深圳体育健康
+568*played*0
+569*file*http://218.17.99.211:82/hls/d4encs75.m3u8
+569*title*地方台     深圳蛇口
+569*played*0
+570*file*http://live.sgmsw.cn:8134/hls-live/livepkgr/_definst_/liveevent/livestream4.m3u8
+570*title*地方台     韶关新闻综合
+570*played*0
+571*file*http://live.sgmsw.cn:8134/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+571*title*地方台     韶关经济生活
+571*played*0
+572*file*http://fms.cntv.lxdns.com/live/flv/channel6.flv
+572*title*地方台     天津滨海  BHTV-1
+572*played*0
+573*file*http://fms.cntv.lxdns.com/live/flv/channel39.flv
+573*title*地方台     天津滨海  BHTV-2
+573*played*0
+574*file*http://live.xwei.tv/channels/njtv/video_xwzh/flv:500k/live
+574*title*地方台     南京新闻综合
+574*played*0
+575*file*http://live.xwei.tv/channels/njtv/video_xx/flv:500k/live
+575*title*地方台     南京信息
+575*played*0
+576*file*http://live.xwei.tv/channels/njtv/video_yl/flv:500k/live
+576*title*地方台     南京娱乐
+576*played*0
+577*file*http://live.xwei.tv/channels/njtv/video_shh/flv:500k/live
+577*title*地方台     南京生活
+577*played*0
+578*file*http://live.xwei.tv/channels/njtv/video_kj/flv:500k/live
+578*title*地方台     南京科教
+578*played*0
+579*file*http://live.xwei.tv/channels/njtv/video_shaoer/flv:500k/live
+579*title*地方台     南京少儿
+579*played*0
+580*file*http://live.xwei.tv/channels/njtv/video_18/flv:500k/live
+580*title*地方台     南京十八
+580*played*0
+581*file*http://222.171.183.168/live/331875bfea734c8fb07516b10c8992f3?fmt=h264_400k_flv
+581*title*地方台     哈尔滨影视
+581*played*0
+582*file*rtmp://live1.baihuwang.com:1935/live/bh
+582*title*地方台     大庆白湖
+582*played*0
+583*file*rtmp://61.153.68.139:1935/live/live1
+583*title*地方台     青田
+583*played*0
+584*file*http://liveful.sobeycache.com/live/FL01.flv
+584*title*地方台     涪陵
+584*played*0
+585*file*http://fms.cntv.lxdns.com/live/flv/channel85.flv
+585*title*地方台     新闻
+585*played*0
+586*file*rtmp://60.255.50.141:1935/live/cdtv01
+586*title*地方台     成都-1        【高清】
+586*played*0
+587*file*http://fms.cntv.lxdns.com/live/flv/channel87.flv
+587*title*地方台     成都-1
+587*played*0
+588*file*http://fms.cntv.lxdns.com/live/flv/channel88.flv
+588*title*地方台     成都-5
+588*played*0
+589*file*http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv2.m3u8
+589*title*地方台     维吾尔语新闻综合
+589*played*0
+590*file*http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv3.m3u8
+590*title*地方台     哈萨克语新闻综合
+590*played*0
+591*file*http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv4.m3u8
+591*title*地方台     汉语综艺
+591*played*0
+592*file*http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv5.m3u8
+592*title*地方台     维吾尔语综艺
+592*played*0
+593*file*http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv7.m3u8
+593*title*地方台     汉语经济生活
+593*played*0
+594*file*http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv8.m3u8
+594*title*地方台     哈萨克语综艺
+594*played*0
+595*file*http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv9.m3u8
+595*title*地方台     维吾尔语经济生活
+595*played*0
+596*file*http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv10.m3u8
+596*title*地方台     汉语体育健康
+596*played*0
+597*file*http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv11.m3u8
+597*title*地方台     汉语法制信息
+597*played*0
+598*file*http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv12.m3u8
+598*title*地方台     新疆少儿频道
+598*played*0
+599*file*http://live02.jxtvcn.com.cn/fdc9ca24357649959c99f1c37eb76611/h264_500k_ts/index.m3u8?type=hls_live_redirect
+599*title*地方台     江西-2
+599*played*0
+600*file*http://live02.jxtvcn.com.cn/bab644cf47ec48459835939552cc8833/h264_500k_ts/index.m3u8?type=hls_live_redirect
+600*title*地方台     江西-3
+600*played*0
+601*file*http://live02.jxtvcn.com.cn/efbb81cbf9b0452fa810c376891f944a/h264_500k_ts/index.m3u8?type=hls_live_redirect
+601*title*地方台     江西-4
+601*played*0
+602*file*http://live02.jxtvcn.com.cn/193223a69fc045f99500aed9fe019112/h264_500k_ts/index.m3u8?type=hls_live_redirect
+602*title*地方台     江西-5
+602*played*0
+603*file*http://live02.jxtvcn.com.cn/159dcf8ce67f445d80e3c53c0d1eef60/h264_500k_ts/index.m3u8?type=hls_live_redirect
+603*title*地方台     江西-6
+603*played*0
+604*file*http://live02.jxtvcn.com.cn/ef3f182f42c24b92a3c246de9bc43a16/h264_500k_ts/index.m3u8?type=hls_live_redirect
+604*title*地方台     江西-7
+604*played*0
+605*file*http://live02.jxtvcn.com.cn/1de01e46f90e456f86b0b38f60403dba/h264_250k_ts/index.m3u8?type=hls_live_redirect
+605*title*地方台     江西-8
+605*played*0
+606*file*http://117.40.225.213:1936/live/stream:aytv.stream/playlist.m3u8
+606*title*地方台     江西安源电视台
+606*played*0
+607*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel05/index.m3u8
+607*title*地方台     扬州一台
+607*played*0
+608*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel03/index.m3u8
+608*title*地方台     扬州二台
+608*played*0
+609*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel14/700.m3u8
+609*title*地方台     扬州三台
+609*played*0
+610*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel19/400.m3u8
+610*title*地方台     扬州四台
+610*played*0
+611*file*http://eshare.live.otvcloud.com/otv/nyz/live/channel04/index.m3u8
+611*title*地方台     扬州五台
+611*played*0
+612*file*http://125.62.25.201:1935/output0.m3u8
+612*title*地方台     丰都综合
+612*played*0
+613*file*http://121.17.18.237:1935/live/stream:wqys.stream/playlist.m3u8
+613*title*地方台     武强影视
+613*played*0
+614*file*http://121.17.18.237:1935/live/stream:wqt.stream/playlist.m3u8
+614*title*地方台     武强综合
+614*played*0
+615*file*http://streamings.hrbtv.net/live/09267a2e15214137aaae37b8a7124b1b?fmt=h264_400k_flv
+615*title*地方台     哈尔滨新闻综合
+615*played*0
+616*file*http://streamings.hrbtv.net/live/32252e6968d448a29e1ec99cd4609ae3?fmt=h264_400k_flv
+616*title*地方台     哈尔滨资讯
+616*played*0
+617*file*http://streamings.hrbtv.net/live/09e35fcca53542bfa24a6b34e0fc2ff8?fmt=h264_400k_flv
+617*title*地方台     哈尔滨生活
+617*played*0
+618*file*http://streamings.hrbtv.net/live/4f28da88b8984bcbbced624179617f2c?fmt=h264_400k_flv
+618*title*地方台     哈尔滨影视
+618*played*0
+619*file*http://streamings.hrbtv.net/live/392a5d168cef46ceae6af7462e678789?fmt=h264_400k_flv
+619*title*地方台     哈尔滨娱乐
+619*played*0
+620*file*http://live.826pc.com/gatv/live.php?id=16
+620*title*地方台     广安新闻综合
+620*played*0
+621*file*http://live.826pc.com/gatv/live.php?id=1
+621*title*地方台     广安科教
+621*played*0
+622*file*http://live.826pc.com/gatv/live.php?id=2
+622*title*地方台     广安互动娱乐
+622*played*0
+623*file*http://live.826pc.com/gatv/live.php?id=3
+623*title*地方台     广安公共
+623*played*0
+624*file*http://live.826pc.com/gatv/live.php?id=17
+624*title*地方台     前锋电视台
+624*played*0
+625*file*http://live.826pc.com/gatv/live.php?id=18
+625*title*地方台     邻水电视台
+625*played*0
+626*file*http://222.191.24.5:6610/2/2/ch00000090990000001311/index.m3u8?ispcode=3
+626*title*地方台     无锡频道
+626*played*0
+627*file*http://222.191.24.5:6610/2/2/ch00000090990000001313/index.m3u8?ispcode=3
+627*title*地方台     无锡教育
+627*played*0
+628*file*http://222.191.24.5:6610/2/2/ch00000090990000001216/index.m3u8?ispcode=3
+628*title*地方台     淮安公共
+628*played*0
+629*file*http://222.191.24.5:6610/2/2/ch00000090990000001196/index.m3u8?ispcode=3
+629*title*地方台     淮安新闻综合
+629*played*0
+630*file*http://222.191.24.5:6610/2/2/ch00000090990000001300/index.m3u8?ispcode=3
+630*title*地方台     淮安影视娱乐
+630*played*0
+631*file*http://stream.lytv.net.cn/2/sd/live.m3u8
+631*title*地方台     福建龙岩新闻综合
+631*played*0
+632*file*http://stream.lytv.net.cn/1/sd/live.m3u8
+632*title*地方台     福建龙岩公共频道
+632*played*0
+633*file*http://hbca.chinashadt.com:1936/live/stream:cazh.stream_720p/playlist.m3u8
+633*title*地方台     河北成安综合
+633*played*0
+634*file*http://hbca.chinashadt.com:1937/live/stream:cajj.stream_720p/playlist.m3u8
+634*title*地方台     河北成安经济
+634*played*0
+635*file*http://hbca.chinashadt.com:1936/live/stream:cakl.stream_720p/playlist.m3u8
+635*title*地方台     河北成安快乐
+635*played*0
+636*file*http://hbca.chinashadt.com:1937/live/stream:bxfw.stream_720p/playlist.m3u8
+636*title*地方台     河北成安百姓服务
+636*played*0
+637*file*http://60.6.231.104:1935/live/qinghe1.stream/playlist.m3u8
+637*title*地方台     河北清河-1
+637*played*0
+638*file*http://60.6.231.104:1935/live/qinghe2.stream/playlist.m3u8
+638*title*地方台     河北清河-2
+638*played*0
+639*file*http://live.2300sjz.com/channels/sjztv/video_channel_01/flv:500k/live
+639*title*地方台     石家庄新闻综合
+639*played*0
+640*file*http://live.2300sjz.com/channels/sjztv/video_channel_04/flv:500k/live
+640*title*地方台     石家庄都市
+640*played*0
+641*file*http://live.2300sjz.com/channels/sjztv/video_channel_02/flv:500k/live
+641*title*地方台     石家庄娱乐
+641*played*0
+642*file*http://live.2300sjz.com/channels/sjztv/video_channel_03/flv:500k/live
+642*title*地方台     石家庄生活
+642*played*0
+643*file*http://weblive.hebtv.com/live/nmpd_bq/index.m3u8
+643*title*地方台     河北农民
+643*played*0
+644*file*http://zb.renxiantv.com:81/live1/livestream.m3u8
+644*title*地方台     河北任县新闻
+644*played*0
+645*file*http://zb.renxiantv.com:81/live2/livestream.m3u8
+645*title*地方台     河北任县生活
+645*played*0
+646*file*http://live.cjyun.org/video/s10008-zh/index.m3u8
+646*title*地方台     湖北电视台【高清】
+646*played*0
+647*file*http://live.cjyun.org/video/s10008-hbjs08/index.m3u8
+647*title*地方台     湖北经视
+647*played*0
+648*file*http://live.cjyun.org/video/s10008-hbys2017/index.m3u8
+648*title*地方台     湖北影视
+648*played*0
+648*duration2*22
+649*file*http://live.cjyun.org/video/s10008-ggxw/index.m3u8
+649*title*地方台     湖北公共新闻
+649*played*0
+650*file*http://live.cjyun.org/video/s10008-ty/index.m3u8
+650*title*地方台     湖北生活
+650*played*0
+651*file*http://live.cjyun.org/video/s10008-jy/index.m3u8
+651*title*地方台     湖北教育
+651*played*0
+652*file*http://live.cjyun.org/video/s10008-ls/index.m3u8
+652*title*地方台     湖北垄上
+652*played*0
+653*file*http://live.cjyun.org/video/s10072-mypd/index.m3u8
+653*title*地方台     快乐成长
+653*played*0
+654*file*http://live.cjyun.org/video/s10093-lczh/index.m3u8
+654*title*地方台     利川新闻综合
+654*played*0
+655*file*http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
+655*title*地方台     襄阳综合
+655*played*0
+656*file*http://xiangyang.live.cjyun.org/video/s10125-education_hd/index.m3u8
+656*title*地方台     襄阳公共
+656*played*0
+657*file*http://xiangyang.live.cjyun.org/video/s10125-society_hd/index.m3u8
+657*title*地方台     襄阳生活
+657*played*0
+658*file*http://xiaochang.live.cjyun.org/video/s10128-xcxw/index.m3u8
+658*title*地方台     孝昌新闻
+658*played*0
+659*file*http://xiaochang.live.cjyun.org/video/s10128-xcsh/index.m3u8
+659*title*地方台     孝昌生活
+659*played*0
+660*file*http://xiaochang.live.cjyun.org/video/s10128-xcdj/index.m3u8
+660*title*地方台     孝昌党建
+660*played*0
+661*file*rtmp://61.184.184.60/live/xwzh_sd
+661*title*地方台     荆门新闻
+661*played*0
+662*file*rtmp://61.184.184.60/live/ngpd_sd
+662*title*地方台     荆门公共
+662*played*0
+663*file*http://live.cjyun.org/video/s10118-dytv1/index.m3u8
+663*title*地方台     当阳影视娱乐
+663*played*0
+664*file*http://huanggang.live.cjyun.org/video/hgtv1/index.m3u8
+664*title*地方台     黄冈新闻
+664*played*0
+665*file*http://live.whtv.com.cn/live/854ba3e080f54651a87f4efa3bd2ffba?fmt=h264_700k_flv
+665*title*地方台     武汉教育
+665*played*0
+666*file*http://live.whtv.com.cn/live/2a532d70bcbe47e6aaccc74dea2655cc?fmt=h264_700k_flv
+666*title*地方台     武汉-1  新闻综合
+666*played*0
+667*file*http://live.whtv.com.cn/live/6b6f634dee044abfa3aa03644ca0e603?fmt=h264_700k_flv
+667*title*地方台     武汉-2  电视剧
+667*played*0
+668*file*http://live.whtv.com.cn/live/0ee5047bf1ad44098321d1bf08965076?fmt=h264_700k_flv
+668*title*地方台     武汉-3  科教生活
+668*played*0
+669*file*http://live.whtv.com.cn/live/30d6cf16a3ad4a288caf298fd9dbe82a?fmt=h264_700k_flv
+669*title*地方台     武汉-4  经济
+669*played*0
+670*file*http://live.whtv.com.cn/live/2bc9fa7307ca499a99dddf8f949fe294?fmt=h264_700k_flv
+670*title*地方台     武汉-5  文体
+670*played*0
+671*file*http://live.whtv.com.cn/live/33dad9b9db4b47bdb12ba1ff5514796a?fmt=h264_700k_flv
+671*title*地方台     武汉-6  外语
+671*played*0
+672*file*http://live.whtv.com.cn/live/c86318910a5a44fb98db68c5d9f1bd92?fmt=h264_700k_flv
+672*title*地方台     武汉-7  少儿
+672*played*0
+673*file*http://183.221.168.53:8083/videos/live/17/51/958cxpfHCjqwj/958cxpfHCjqwj.M3U8
+673*title*地方台     四川大竹新闻综合  HD
+673*played*0
+674*file*http://183.221.168.53:8083/videos/live/50/0/fvfm8SqxEkQGt/fvfm8SqxEkQGt.M3U8
+674*title*地方台     四川大竹阳光政务  HD
+674*played*0
+675*file*http://222.191.24.5:6610/2/2/ch00000090990000001303/index.m3u8?ispcode=3
+675*title*地方台     江苏综艺
+675*played*0
+676*file*http://222.191.24.5:6610/2/2/ch00000090990000001305/index.m3u8?ispcode=3
+676*title*地方台     江苏城市
+676*played*0
+677*file*http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+677*title*地方台     靖江新闻  HD
+677*played*0
+678*file*http://pull.8686c.com/sztv1/sbs1hd/playlist.m3u8
+678*title*地方台     苏州新闻综合   HD
+678*played*0
+679*file*http://livetv.2500city.com/live/sbs2hd/index.m3u8
+679*title*地方台     苏州社会经济   HD
+679*played*0
+680*file*http://livetv.2500city.com/live/sbs3hd/index.m3u8
+680*title*地方台     苏州文化生活   HD
+680*played*0
+681*file*http://livetv.2500city.com/live/sbs5hd/index.m3u8
+681*title*地方台     苏州生活资讯   HD
+681*played*0
+682*file*rtmp://218.3.205.49:1935/live/xwzh_sd
+682*title*地方台     徐州-1
+682*played*0
+683*file*rtmp://218.3.205.49:1935/live/jjsh_sd
+683*title*地方台     徐州-2
+683*played*0
+684*file*rtmp://218.3.205.49:1935/live/wyys_sd
+684*title*地方台     徐州-3
+684*played*0
+685*file*rtmp://218.3.205.49:1935/live/ggpd_sd
+685*title*地方台     徐州-4
+685*played*0
+686*file*http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8
+686*title*地方台     徐州-1              【高清】
+686*played*0
+687*file*http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
+687*title*地方台     徐州-4              【高清】
+687*played*0
+688*file*http://live.zjmc.tv/1/sd/live.m3u8
+688*title*地方台     镇江新闻时政
+688*played*0
+689*file*http://live.zjmc.tv/2/sd/live.m3u8
+689*title*地方台     镇江民生
+689*played*0
+690*file*http://live.zjmc.tv/3/sd/live.m3u8
+690*title*地方台     镇江城市
+690*played*0
+691*file*http://121.31.20.139:8114/itv/gxgjpd?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM57=&Provider_id=&Pcontent_id=
+691*title*地方台     广西国际
+691*played*0
+692*file*http://121.31.20.139:8114/itv/gxzx?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM49=&Provider_id=&Pcontent_id=
+692*title*地方台     广西新闻
+692*played*0
+693*file*http://121.31.20.139:8114/itv/gxzy?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM50=&Provider_id=&Pcontent_id=
+693*title*地方台     广西综艺
+693*played*0
+694*file*http://121.31.20.139:8114/itv/gxds?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM51=&Provider_id=&Pcontent_id=
+694*title*地方台     广西都市
+694*played*0
+695*file*http://121.31.20.139:8114/itv/gxys?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM52=&Provider_id=&Pcontent_id=
+695*title*地方台     广西影视
+695*played*0
+696*file*http://121.31.20.139:8114/itv/gxgg?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM53=&Provider_id=&Pcontent_id=
+696*title*地方台     广西公共
+696*played*0
+697*file*http://121.31.20.139:8114/itv/gxkj?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM54=&Provider_id=&Pcontent_id=
+697*title*地方台     广西科教
+697*played*0
+698*file*http://121.31.20.139:8114/itv/qcgxjtpd?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM56=&Provider_id=&Pcontent_id=
+698*title*地方台     广西交通
+698*played*0
+699*file*http://palive.patv123.com:8091/live/xwpd.m3u8
+699*title*地方台     四川蓬安
+699*played*0
+700*file*rtmp://palive.patv123.com:1935/live/xwpd
+700*title*地方台     四川蓬安
+700*played*0
+701*file*http://fms.cntv.lxdns.com/live/flv/channel34.flv
+701*title*地方台     内蒙古蒙语
+701*played*0
+702*file*http://stream.nmtv.cn/4/sd/live.m3u8
+702*title*地方台     内蒙古少儿
+702*played*0
+703*file*http://stream.nmtv.cn/7/sd/live.m3u8
+703*title*地方台     内蒙古新闻综合
+703*played*0
+704*file*http://stream.nmtv.cn/8/sd/live.m3u8
+704*title*地方台     内蒙古文体娱乐
+704*played*0
+705*file*http://stream.nmtv.cn/6/sd/live.m3u8
+705*title*地方台     内蒙农牧频道
+705*played*0
+706*file*http://olive.ordosrt.com:1935/live/v0/playlist.m3u8
+706*title*地方台     鄂尔多斯新闻综合
+706*played*0
+707*file*http://olive.ordosrt.com:1935/live/v1/playlist.m3u8
+707*title*地方台     鄂尔多斯经济服务
+707*played*0
+708*file*http://olive.ordosrt.com:1935/live/v2/playlist.m3u8
+708*title*地方台     鄂尔多斯城市生活
+708*played*0
+709*file*http://olive.ordosrt.com:1935/live/v3/playlist.m3u8
+709*title*地方台     鄂尔多斯蒙语
+709*played*0
+710*file*http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
+710*title*地方台     包头新闻综合 HD
+710*played*0
+711*file*http://live.btgdt.com/channels/btgd/shfw/flv:500k/live
+711*title*地方台     包头生活服务 HD
+711*played*0
+712*file*http://live.btgdt.com/channels/btgd/jjpd/flv:500k/live
+712*title*地方台     包头经济 HD
+712*played*0
+713*file*http://wrblive.wrbtv.cn:8091/live/xwzhpd_500k.m3u8
+713*title*地方台     内蒙古乌兰察布
+713*played*0
+714*file*rtmp://wrblive.wrbtv.cn:1935/live/xwzhpd_500k
+714*title*地方台     内蒙古乌兰察布
+714*played*0
+715*file*http://fms.cntv.lxdns.com/live/flv/channel606.flv
+715*title*地方台     青海生活
+715*played*0
+716*file*http://fms.cntv.lxdns.com/live/flv/channel605.flv
+716*title*地方台     青海都市
+716*played*0
+717*file*http://fms.cntv.lxdns.com/live/flv/channel608.flv
+717*title*地方台     安多卫视
+717*played*0
+718*file*http://live.826pc.com/lsiptv/live.php?id=1
+718*title*地方台     凉山新闻综合
+718*played*0
+718*duration2*35
+719*file*http://live.826pc.com/lsiptv/live.php?id=2
+719*title*地方台     凉山公共频道
+719*played*0
+720*file*http://live.826pc.com/lsiptv/live.php?id=3
+720*title*地方台     凉山彝语频道
+720*played*0
+721*file*http://live.826pc.com/lsiptv/test.php?id=4
+721*title*地方台     凉山文化旅游
+721*played*0
+722*file*http://live.826pc.com/lsiptv/live.php?id=8
+722*title*地方台     宁南新闻综合
+722*played*0
+723*file*http://l1.cztvcloud.com/channels/lantian/sx1_xiaoshan01/720p.m3u8?k=cb80bf34ec4a01128867d0fb01123b51&t=1494875269
+723*title*地方台     萧山综合
+723*played*0
+724*file*http://live.mudu.tv/watch/x4lyk6.m3u8
+724*title*地方台     隆昌综合
+724*played*0
+725*file*http://scsh.chinashadt.com:1936/live/stream:shzh.stream/playlist.m3u8
+725*title*地方台     射洪综合
+725*played*0
+726*file*http://114.112.96.199:5080/hls/vv79csa2.m3u8
+726*title*地方台     黔西南综合
+726*played*0
+727*file*http://pili-live-hls.livechux.sobeycache.com/chuxiong/news.m3u8
+727*title*地方台     楚雄综合
+727*played*0
+728*file*http://pili-live-hls.livechux.sobeycache.com/chuxiong/public.m3u8
+728*title*地方台     楚雄公共
+728*played*0
+729*file*http://202.99.114.87/PLTV/88888891/224/3221225499/10000100000000060000000000086643_0.smil
+729*title*地方台     天津少儿
+729*played*0
+730*file*http://202.99.114.87/PLTV/88888891/224/3221225503/10000100000000060000000000086747_0.smil
+730*title*地方台     天津少儿
+730*played*0
+731*file*http://tv.cutv.com/player/cv.swf?channelId=rk8Z088
+731*title*地方台     太原文体
+731*played*0
+732*file*http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5HSk1QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHMz/HNGJMPP360.m3u8
+732*title*地方台     湖南国际
+732*played*0
+733*file*http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5KU01QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHMz/HNJSMPP360.m3u8
+733*title*地方台     湖南经视
+733*played*0
+734*file*http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5EU01QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHMa/HNDSMPP360.m3u8
+734*title*地方台     湖南都市
+734*played*0
+735*file*http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5ZTE1QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHMb/HNYLMPP360.m3u8
+735*title*地方台     湖南娱乐
+735*played*0
+736*file*http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5HR01QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHMz/HNGGMPP360.m3u8
+736*title*地方台     湖南公共
+736*played*0
+737*file*http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5EU0pNUFAzNjAmY2RuZXhfaWQ9YWxfcGhvbmVfbGl2ZTMmbmZ0PXRz/HNDSJMPP360.m3u8
+737*title*地方台     湖南电视剧
+737*played*0
+738*file*http://4221.hlsplay.aodianyun.com:80/csftv/1.m3u8
+738*title*地方台     长沙政法频道  HD
+738*played*0
+739*file*http://4221.hlsplay.aodianyun.com:80/csftv/1.m3u8
+739*title*地方台     长沙政法频道
+739*played*0
+740*file*http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
+740*title*地方台     湖南娄底综合
+740*played*0
+741*file*http://mms.ldntv.cn:1935/live/gonggong/playlist.m3u8
+741*title*地方台     湖南娄底公共
+741*played*0
+742*file*http://stream.21ytv.com/xw/sd/live.m3u8
+742*title*地方台     永州新闻综合
+742*played*0
+743*file*http://stream.21ytv.com/gg/sd/live.m3u8
+743*title*地方台     永州公共
+743*played*0
+744*file*http://stream.21ytv.com/ds/sd/live.m3u8
+744*title*地方台     永州都市
+744*played*0
+745*file*http://live1.0745tv.com/xwzh/sd/live.m3u8
+745*title*地方台     怀化新闻综合
+745*played*0
+746*file*http://live1.0745tv.com/jjpd/sd/live.m3u8
+746*title*地方台     怀化公共
+746*played*0
+747*file*http://58.20.59.58:8020/live/hnjiaoyu.stream_aac/playlist.m3u8
+747*title*地方台     湖南教育台
+747*played*0
+748*file*http://zb.wyol.com.cn/hls-live/livepkgr/_definst_/wslhevent/hls_pindao_1_500.m3u8
+748*title*地方台     吴江新闻综合HD
+748*played*0
+749*file*http://stream2.hljtv.com/hljys/sd/live.m3u8
+749*title*地方台     黑龙江影视
+749*played*0
+750*file*http://stream2.hljtv.com/hljwy/sd/live.m3u8
+750*title*地方台     黑龙江文艺
+750*played*0
+751*file*http://stream1.hljtv.com/hljdd/sd/live.m3u8
+751*title*地方台     黑龙江都市
+751*played*0
+752*file*http://stream2.hljtv.com/hljxw/sd/live.m3u8
+752*title*地方台     黑龙江新闻
+752*played*0
+753*file*http://stream1.hljtv.com/hljgg/sd/live.m3u8
+753*title*地方台     黑龙江公共
+753*played*0
+754*file*http://stream1.hljtv.com/hljse/sd/live.m3u8
+754*title*地方台     黑龙江少儿
+754*played*0
+755*file*http://stream1.hljtv.com/hljds/sd/live.m3u8
+755*title*地方台     黑龙江导视
+755*played*0
+756*file*http://appstreamings.hrbtv.net/live/09267a2e15214137aaae37b8a7124b1b.m3u8?fmt=h264_400k_ts&m3u8
+756*title*地方台     哈尔滨新闻综合
+756*played*0
+757*file*http://appstreamings.hrbtv.net/live/09e35fcca53542bfa24a6b34e0fc2ff8.m3u8?fmt=h264_400k_ts&m3u8
+757*title*地方台     哈尔滨生活
+757*played*0
+758*file*http://appstreamings.hrbtv.net/live/4f28da88b8984bcbbced624179617f2c.m3u8?fmt=h264_400k_ts&m3u8
+758*title*地方台     哈尔滨影视
+758*played*0
+759*file*http://appstreamings.hrbtv.net/live/392a5d168cef46ceae6af7462e678789.m3u8?fmt=h264_400k_ts&m3u8
+759*title*地方台     哈尔滨娱乐
+759*played*0
+760*file*http://appstreamings.hrbtv.net/live/32252e6968d448a29e1ec99cd4609ae3.m3u8?fmt=h264_400k_ts&m3u8
+760*title*地方台     哈尔滨资讯
+760*played*0
+761*file*http://stream.mdjmtv.com/xwt/sd/live.m3u8
+761*title*地方台     牡丹江新闻
+761*played*0
+762*file*http://stream.mdjmtv.com/sht/sd/live.m3u8
+762*title*地方台     牡丹江公共
+762*played*0
+763*file*http://221.6.85.150:9000/live/ksshsh_800/ksshsh_800.m3u8
+763*title*地方台     昆山社会生活
+763*played*0
+764*file*http://live.wjyanghu.com/live/CH1.m3u8
+764*title*地方台     武进新闻频道
+764*played*0
+765*file*http://live.wjyanghu.com/live/CH2.m3u8
+765*title*地方台     武进生活频道
+765*played*0
+766*file*http://58.211.172.37:1935/live/tcxwpc/playlist.m3u8
+766*title*地方台     太仓新闻频道
+766*played*0
+767*file*http://58.211.172.37:1935/live/ldmspc/playlist.m3u8
+767*title*地方台     太仓娄东民生
+767*played*0
+768*file*http://58.211.172.37:1935/live/djpdpc/playlist.m3u8
+768*title*地方台     太仓党建频道
+768*played*0
+769*file*http://stream.pznews.com/pztv1/sd/live.m3u8
+769*title*地方台     邳州综合频道
+769*played*0
+770*file*http://stream.pznews.com/pztv2/sd/live.m3u8
+770*title*地方台     邳州综艺频道
+770*played*0
+771*file*http://live.chinactv.com/ctv1/sd/live.m3u8
+771*title*地方台     长春综合
+771*played*0
+772*file*http://live.chinactv.com/ctv2/sd/live.m3u8
+772*title*地方台     长春娱乐
+772*played*0
+773*file*http://live.chinactv.com/ctv3/sd/live.m3u8
+773*title*地方台     长春市民
+773*played*0
+774*file*http://live.chinactv.com/ctv4/sd/live.m3u8
+774*title*地方台     长春商业
+774*played*0
+775*file*http://live.chinactv.com/ctv5/sd/live.m3u8
+775*title*地方台     长春新知
+775*played*0
+776*file*http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9U0hEWU1QUDM2MCZ1cmxfYzE9MjOWExZWU0OTg2Jm50dGw9MyZuY21za,/JSLZMPP360.m3u8
+776*title*地方台     靓妆
+776*played*0
+777*file*http://ts1.ijntv.cn/xwhd/playlist.m3u8?_upt=d315b9611499413011
+777*title*地方台     济南新闻综合【高清】
+777*played*0
+778*file*http://ts1.ijntv.cn/yshd/playlist.m3u8
+778*title*地方台     济南影视【高清】
+778*played*0
+779*file*http://ts1.ijntv.cn/jnds/playlist.m3u8
+779*title*地方台     济南都市
+779*played*0
+780*file*http://ts2.ijntv.cn/jnyl/sd/live.m3u8
+780*title*地方台     济南娱乐
+780*played*0
+781*file*http://ts2.ijntv.cn/jnsh/sd/live.m3u8
+781*title*地方台     济南生活
+781*played*0
+782*file*http://ts1.ijntv.cn/jnsw/sd/live.m3u8
+782*title*地方台     济南商务
+782*played*0
+783*file*http://ts2.ijntv.cn/jnse/sd1/live.m3u8
+783*title*地方台     济南少儿
+783*played*0
+784*file*http://yf.m.l.cztv.com/channels/lantian/channel08/360p.m3u8
+784*title*地方台     浙江民生休闲
+784*played*0
+785*file*http://yf.m.l.cztv.com/channels/lantian/channel11/360p.m3u8
+785*title*地方台     浙江经济生活
+785*played*0
+786*file*http://yf.m.l.cztv.com/channels/lantian/channel10/360p.m3u8
+786*title*地方台     浙江教育科技
+786*played*0
+787*file*http://yf.m.l.cztv.com/channels/lantian/channel09/360p.m3u8
+787*title*地方台     浙江影视娱乐
+787*played*0
+788*file*http://yf.m.l.cztv.com/channels/lantian/channel07/360p.m3u8
+788*title*地方台     浙江公共新闻
+788*played*0
+789*file*http://yf.m.l.cztv.com/channels/lantian/channel06/360p.m3u8
+789*title*地方台     浙江少儿
+789*played*0
+790*file*http://yf.m.l.cztv.com/channels/lantian/channel04/360p.m3u8
+790*title*地方台     浙江国际
+790*played*0
+791*file*http://yf.m.l.cztv.com/channels/lantian/channel02/360p.m3u8
+791*title*地方台     数码时代
+791*played*0
+792*file*http://yf.m.l.cztv.com/channels/lantian/channel12/360p.m3u8
+792*title*地方台     浙江钱江
+792*played*0
+793*file*http://stream1.ahtv.cn/jjsh/hd/live.m3u8
+793*title*地方台     安徽经济生活
+793*played*0
+794*file*http://stream.ahtv.cn/zypd/hd/live.m3u8
+794*title*地方台     安徽综艺
+794*played*0
+795*file*http://stream1.ahtv.cn/yspd/hd/live.m3u8
+795*title*地方台     安徽影视
+795*played*0
+796*file*http://stream.ahtv.cn/ahgg/hd/live.m3u8
+796*title*地方台     安徽公共
+796*played*0
+797*file*http://stream.ahtv.cn/kjpd/hd/live.m3u8
+797*title*地方台     安徽科教
+797*played*0
+798*file*http://stream1.ahtv.cn/rwpd/hd/live.m3u8
+798*title*地方台     人物频道
+798*played*0
+799*file*http://stream1.ahtv.cn/ahgj/hd/live.m3u8
+799*title*地方台     安徽国际
+799*played*0
+800*file*http://220.178.82.209/channels/preview/4/flv:500k
+800*title*地方台     合肥新闻
+800*played*0
+801*file*http://220.178.82.209/channels/preview/2/flv:500k
+801*title*地方台     合肥财经
+801*played*0
+802*file*http://220.178.82.209/channels/preview/1/flv:500k
+802*title*地方台     合肥生活
+802*played*0
+803*file*http://220.178.82.209/channels/preview/3/flv:500k
+803*title*地方台     合肥教育
+803*played*0
+804*file*http://220.178.82.199/channels/39/500.flv/live
+804*title*地方台     合肥文体
+804*played*0
+805*file*http://live.tlbts.com:2935/live/live101/1000K/tzwj_video.m3u8
+805*title*地方台     安徽铜陵新闻
+805*played*0
+806*file*http://live.tlbts.com:2935/live/live102/1000K/tzwj_video.m3u8
+806*title*地方台     安徽铜陵公共
+806*played*0
+807*file*http://live.tlbts.com:2935/live/live103/1000K/tzwj_video.m3u8
+807*title*地方台     安徽铜陵科教
+807*played*0
+808*file*rtmp://live.aqbtv.cn:9600/live/hmx
+808*title*地方台     安庆黄梅戏·教育
+808*played*0
+809*file*rtmp://www.ynbit.cn/km-1/livestream
+809*title*地方台     昆明一台
+809*played*0
+810*file*rtmp://www.ynbit.cn/km-2/livestream
+810*title*地方台     昆明二台
+810*played*0
+811*file*rtmp://www.ynbit.cn/km-3/livestream
+811*title*地方台     昆明三台
+811*played*0
+812*file*rtmp://www.ynbit.cn/yn-2/livestream
+812*title*地方台     云南二台
+812*played*0
+813*file*rtmp://www.ynbit.cn/yn-3/livestream
+813*title*地方台     云南三台
+813*played*0
+814*file*rtmp://www.ynbit.cn/km-6/livestream
+814*title*地方台     昆明六台
+814*played*0
+815*file*rtmp://www.ynbit.cn/yn-6/livestream
+815*title*地方台     云南六台
+815*played*0
+816*file*http://stream.mstv.cc/gqpd/sd/live.m3u8
+816*title*地方台     四川眉山高清【高清】
+816*played*0
+817*file*http://stream.mstv.cc/ggpd/sd/live.m3u8
+817*title*地方台     四川眉山公共
+817*played*0
+818*file*http://stream.mstv.cc/zhpd/sd/live.m3u8
+818*title*地方台     四川眉山综合
+818*played*0
+819*file*http://scdytv.com:1935/live/xwpd_livevideo/palylist.m3u8
+819*title*地方台     四川德阳新闻【高清】
+819*played*0
+820*file*http://scdytv.com:1935/live/ggpd_livevideo/palylist.m3u8
+820*title*地方台     四川德阳公共【高清】
+820*played*0
+821*file*http://182.138.21.36:6610/scdxlive/2/10000100000000050000000000000102?&virtualDomain=scdxlive.live_hls.zte.com
+821*title*地方台     SCTV-2        【高清】
+821*played*0
+822*file*http://182.138.21.36:6610/scdxlive/2/10000100000000050000000000000103?&virtualDomain=scdxlive.live_hls.zte.com
+822*title*地方台     SCTV-3        【高清】
+822*played*0
+823*file*http://182.138.21.36:6610/scdxlive/2/10000100000000050000000000000104?&virtualDomain=scdxlive.live_hls.zte.com
+823*title*地方台     SCTV-4        【高清】
+823*played*0
+824*file*http://182.138.21.36:6610/scdxlive/2/10000100000000050000000000000081?&virtualDomain=scdxlive.live_hls.zte.com
+824*title*地方台     SCTV-5        【高清】
+824*played*0
+825*file*http://182.138.21.36:6610/scdxlive/2/10000100000000050000000000000106?&virtualDomain=scdxlive.live_hls.zte.com
+825*title*地方台     SCTV-7        【高清】
+825*played*0
+826*file*http://61.178.81.206/seg/8.m3u8
+826*title*地方台     兰州新闻综合
+826*played*0
+827*file*http://61.178.81.206/seg/9.m3u8
+827*title*地方台     兰州生活经济
+827*played*0
+828*file*http://61.178.81.206/seg/10.m3u8
+828*title*地方台     兰州综艺体育
+828*played*0
+829*file*http://61.178.81.206/seg/11.m3u8
+829*title*地方台     兰州公共
+829*played*0
+830*file*http://video.hznet.tv:1935/live/live1/tzwj_video.m3u8
+830*title*地方台     菏泽-1
+830*played*0
+830*duration2*31
+831*file*http://video.hznet.tv:1935/live/live2/tzwj_video.m3u8
+831*title*地方台     菏泽-2
+831*played*0
+831*duration2*30
+832*file*http://video.hznet.tv:1935/live/live3/tzwj_video.m3u8
+832*title*地方台     菏泽-3
+832*played*0
+832*duration2*27
+833*file*rtmp://218.92.178.200:1935/live/yctv1_sd
+833*title*地方台     盐城-1
+833*played*0
+834*file*rtmp://218.92.178.200:1935/live/yctv2_sd
+834*title*地方台     盐城-2
+834*played*0
+835*file*rtmp://218.92.178.200:1935/live/yctv3_sd
+835*title*地方台     盐城-3
+835*played*0
+836*file*rtmp://218.92.178.200:1935/live/yctv4_sd
+836*title*地方台     七一小康频道
+836*played*0
+837*file*http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe/playlist.m3u8
+837*title*地方台     张家港新闻
+837*played*0
+838*file*http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo/playlist.m3u8
+838*title*地方台     张家港民生
+838*played*0
+839*file*http://live.yqrtv.com:6505/live/ch1.m3u8
+839*title*地方台     阳泉新闻综合
+839*played*0
+840*file*http://live.yqrtv.com:6505/live/ch2.m3u8
+840*title*地方台     阳泉科教
+840*played*0
+841*file*http://live.yqrtv.com:6505/live/ch0.m3u8
+841*title*地方台     睛彩阳泉
+841*played*0
+842*file*http://newvod.ahbbtv.com:1935/live/smil:xwpd_copy.smil/playlist.m3u8
+842*title*地方台     蚌埠新闻
+842*played*0
+843*file*http://newvod.ahbbtv.com:1935/live/smil:shpd_copy.smil/playlist.m3u8
+843*title*地方台     蚌埠生活
+843*played*0
+844*file*http://newvod.ahbbtv.com:1935/live/smil:ggpd_copy.smil/playlist.m3u8
+844*title*地方台     蚌埠公共
+844*played*0
+845*file*http://newvod.ahbbtv.com:1935/live/smil:wjpd_copy.smil/playlist.m3u8
+845*title*地方台     蚌埠文教
+845*played*0
+846*file*http://newvod.ahbbtv.com:1935/live/smil:gjpd_copy.smil/playlist.m3u8
+846*title*地方台     蚌埠公交
+846*played*0
+847*file*http://live.massp.cn:5011/vod/video_hls/c01.m3u8
+847*title*地方台     马鞍山新闻
+847*played*0
+848*file*http://live.massp.cn:5011/vod/video_hls/c02.m3u8
+848*title*地方台     马鞍山影视
+848*played*0
+849*file*http://live.massp.cn:5011/vod/video_hls/c03.m3u8
+849*title*地方台     马鞍山公共
+849*played*0
+850*file*http://vod.xy0790.com.cn:9600/live/live1/tzwj_video.m3u8
+850*title*地方台     新余新闻
+850*played*0
+851*file*http://vod.xy0790.com.cn:9600/live/live2/tzwj_video.m3u8
+851*title*地方台     新余公共
+851*played*0
+852*file*http://vod.xy0790.com.cn:9600/live/live3/tzwj_video.m3u8
+852*title*地方台     新余教育
+852*played*0
+853*file*http://vod.jnnews.tv:1935/live/live201/800K/tzwj_video.m3u8
+853*title*地方台     山东济宁综合
+853*played*0
+854*file*http://vod.jnnews.tv:1935/live/live208/800K/tzwj_video.m3u8
+854*title*地方台     济宁教育
+854*played*0
+855*file*http://vod.jnnews.tv:1935/live/live203/800K/tzwj_video.m3u8
+855*title*地方台     济宁公共
+855*played*0
+856*file*http://vod.jnnews.tv:1935/live/live202/800K/tzwj_video.m3u8
+856*title*地方台     济宁图文
+856*played*0
+857*file*http://vod.jnnews.tv:1935/live/live208/800K/tzwj_video.m3u8
+857*title*地方台     济宁教育
+857*played*0
+858*file*http://vod.jnnews.tv:1935/live/live210/800K/tzwj_video.m3u8
+858*title*地方台     济宁党建
+858*played*0
+859*file*http://222.161.137.149:8134/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
+859*title*地方台     延吉新闻综合
+859*played*0
+860*file*http://219.159.248.118:8134/hls-live/livepkgr/_definst_/liveevent/xw.m3u8
+860*title*地方台     柳州新闻
+860*played*0
+861*file*rtmp://219.159.248.118:1935/livepkgr/xw
+861*title*地方台     柳州新闻
+861*played*0
+862*file*rtmp://219.159.248.118:1935/livepkgr/kj
+862*title*地方台     柳州科教
+862*played*0
+863*file*http://cdn1.myntv.cn/myntv1/MYNTV1.flv/playlist.m3u8
+863*title*地方台     绵阳新闻
+863*played*0
+864*file*http://cdn1.myntv.cn/mytv2/mytv2.flv/playlist.m3u8
+864*title*地方台     绵阳公共
+864*played*0
+865*file*http://cdn1.myntv.cn/mytv3/mytv3.flv/playlist.m3u8
+865*title*地方台     绵阳科技
+865*played*0
+866*file*http://cdn1.myntv.cn/mytv4/mytv4.flv/playlist.m3u8
+866*title*地方台     绵阳教育
+866*played*0
+867*file*http://cdn1.myntv.cn/mylv/mylv.flv/playlist.m3u8
+867*title*地方台     绵阳旅游
+867*played*0
+868*file*http://cdn1.myntv.cn/myjtfw/jtfw.flv/playlist.m3u8
+868*title*地方台     绵阳交通服务
+868*played*0
+869*file*http://cdn1.myntv.cn/myzhxx/myzhxx.flv/playlist.m3u8
+869*title*地方台     绵阳信息服务
+869*played*0
+869*duration2*36
+870*file*http://cdn1.myntv.cn/myszxw/myszxw.flv/playlist.m3u8
+870*title*地方台     绵阳新农村
+870*played*0
+870*duration2*48
+871*file*http://live1.xigo.tv/xwzh/playlist.m3u8
+871*title*地方台     平湖新闻
+871*played*0
+872*file*http://live1.xigo.tv/msxs/playlist.m3u8
+872*title*地方台     平湖民生休闲
+872*played*0
+873*file*http://live1.xigo.tv/phzb/playlist.m3u8
+873*title*地方台     平湖西瓜
+873*played*0
+874*file*http://live.wifizs.cn/xwzh/sd/live.m3u8
+874*title*地方台     舟山新闻综合
+874*played*0
+875*file*http://live.wifizs.cn/ggsh/sd/live.m3u8
+875*title*地方台     舟山公共生活
+875*played*0
+876*file*http://live.wifizs.cn/qdly/sd/live.m3u8
+876*title*地方台     舟山群岛旅游
+876*played*0
+877*file*rtmp://183.166.128.82:1935/dreamStreamCore/8E55iTz/lv1300
+877*title*地方台     黄山新闻
+877*played*0
+878*file*rtmp://183.166.128.82:1935/dreamStreamCore/K6loq2m/lv1000
+878*title*地方台     黄山公共
+878*played*0
+879*file*http://fms.cntv.lxdns.com/live/flv/channel87.flv
+879*title*地方台     成都-1
+879*played*0
+880*file*http://fms.cntv.lxdns.com/live/flv/channel88.flv
+880*title*地方台     成都-5
+880*played*0
+881*file*http://222.36.5.53:9800/live/jxtv.m3u8
+881*title*地方台     蓟县综合
+881*played*0
+882*file*http://222.36.5.53:9800/live/jztv.m3u8
+882*title*地方台     蓟县文化旅游
+882*played*0
+883*file*http://221.5.213.4:30000/1111.m3u8
+883*title*地方台     重庆南川新闻综合
+883*played*0
+884*file*http://221.5.213.4:30000/2222.m3u8
+884*title*地方台     重庆南川经济旅游
+884*played*0
+885*file*http://222.223.23.2:1935/live/stream:dsyy.stream_720p/playlist.m3u8
+885*title*地方台     遵化旅游生活
+885*played*0
+886*file*http://222.223.23.2:1935/live/stream:zhzh.stream_720p/playlist.m3u8
+886*title*地方台     遵化综合
+886*played*0
+887*file*http://222.223.23.2:1935/live/stream:dyy.stream_720p/playlist.m3u8
+887*title*地方台     遵化先锋
+887*played*0
+888*file*http://223.82.209.77:1936/live/SGTV1.stream_aac/playlist.m3u8
+888*title*地方台     上高电视台
+888*played*0
+889*file*http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
+889*title*地方台     银川生活
+889*played*0
+890*file*http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8
+890*title*地方台     银川公共
+890*played*0
+891*file*http://lms.csytv.com/Live/122/live/livestream.m3u8
+891*title*地方台     沈阳新闻综合
+891*played*0
+892*file*http://lms.csytv.com/Live/123/live/livestream.m3u8
+892*title*地方台     沈阳经济
+892*played*0
+893*file*http://lms.csytv.com/Live/124/live/livestream.m3u8
+893*title*地方台     沈阳公共
+893*played*0
+894*file*http://lms.csytv.com/Live/125/live/livestream.m3u8
+894*title*地方台     沈阳交通
+894*played*0
+895*file*rtmp://rtmp.nntv.cn/nnlive/NNTV_XWEN
+895*title*地方台     南宁新闻综合
+895*played*0
+896*file*rtmp://rtmp.nntv.cn/nnlive/NNTV_DSHI
+896*title*地方台     南宁都市生活
+896*played*0
+897*file*rtmp://rtmp.nntv.cn/nnlive/NNTV_YSHI
+897*title*地方台     南宁影视娱乐
+897*played*0
+898*file*rtmp://rtmp.nntv.cn/nnlive/NNTV_GGONG
+898*title*地方台     南宁公共
+898*played*0
+899*file*http://3g.dzsm.com/streamer/gy01.m3u8
+899*title*地方台     广元综合频道
+899*played*0
+900*file*http://3g.dzsm.com/streamer/gy02/gy02-500.m3u8
+900*title*地方台     广元公共
+900*played*0
+901*file*http://fms.cntv.lxdns.com/live/flv/channel12.flv
+901*title*地方台     邢台综合
+901*played*0
+902*file*http://fms.cntv.lxdns.com/live/flv/channel10.flv
+902*title*地方台     邢台生活
+902*played*0
+903*file*http://fms.cntv.lxdns.com/live/flv/channel11.flv
+903*title*地方台     邢台公共
+903*played*0
+904*file*http://web-play.pptv.com/web-m3u8-301055.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+904*title*地方台     河南睛彩中原
+904*played*0
+905*file*rtmp://live1.lytv.com.cn:1935/live/LYTV1-1
+905*title*地方台     洛阳综合
+905*played*0
+906*file*rtmp://live2.lytv.com.cn:1935/live/LYTV2-1
+906*title*地方台     洛阳科教
+906*played*0
+907*file*rtmp://live2.lytv.com.cn:1935/live/LYTV3-1
+907*title*地方台     洛阳公共
+907*played*0
+908*file*rtmp://live2.lytv.com.cn:1935/live/LYTV4-1
+908*title*地方台     洛阳移动
+908*played*0
+909*file*rtmp://221.176.205.102:9600/live/xwzhpd
+909*title*地方台     安阳新闻综合
+909*played*0
+910*file*rtmp://221.176.205.102:9600/live/ggpd
+910*title*地方台     安阳科教
+910*played*0
+911*file*http://61.136.113.35/tslsChannelLive/zyys888.m3u8
+911*title*地方台     南阳新闻综合
+911*played*0
+912*file*http://61.136.113.35/tslsChannelLive/z6NexHK.m3u8
+912*title*地方台     南阳公共
+912*played*0
+913*file*http://61.136.113.35/tslsChannelLive/ZxZBA36.m3u8
+913*title*地方台     南阳科教
+913*played*0
+914*file*http://61.136.113.35/tslsChannelLive/rk8Z088.m3u8
+914*title*地方台     南阳图文信息
+914*played*0
+915*file*rtmp://live1.baihuwang.com:1935/live/zh
+915*title*地方台     大庆综合
+915*played*0
+916*file*rtmp://live1.baihuwang.com:1935/live/bh
+916*title*地方台     大庆公共
+916*played*0
+917*file*rtmp://live1.baihuwang.com:1935/live/kj
+917*title*地方台     大庆教育
+917*played*0
+918*file*rtmp://vod.qthtv.com:1935/live/live2
+918*title*地方台     七台河综合
+918*played*0
+919*file*rtmp://www.cdgdj.com:1935/live/xinwen
+919*title*地方台     常德时政
+919*played*0
+920*file*rtmp://www.cdgdj.com:1935/live/gonggong
+920*title*地方台     常德公共
+920*played*0
+921*file*rtmp://www.cdgdj.com:1935/live/wuling
+921*title*地方台     常德武陵
+921*played*0
+922*file*http://stream.jletv.cn/live/fff4632e84194739805546e86a829581.m3u8?fmt=h264_800k_ts&m3u8
+922*title*地方台     吉林教育
+922*played*0
+923*file*http://zhbs.53jl.com:9905/bszb/bszhhd.m3u8?tmsrv=live
+923*title*地方台     白山综合
+923*played*0
+923*duration2*143
+924*file*http://zhbs.53jl.com:9905/bszb/bsshhd.m3u8?tmsrv=live
+924*title*地方台     白山公共
+924*played*0
+924*duration2*139
+925*file*http://streamer.ksntv.com.cn/live/e7ecbf740aab4620962d7a4cdd2d13fe?fmt=h264_450k_flv
+925*title*地方台     昆山新闻
+925*played*0
+926*file*http://live.rdxmt.com/channels/rudong/news/flv:sd/live
+926*title*地方台     如东新闻综合
+926*played*0
+927*file*http://live.rdxmt.com/channels/rudong/shfw/flv:sd/live
+927*title*地方台     如东生活服务
+927*played*0
+928*file*http://live.rdxmt.com/channels/rudong/yswh/flv:sd/live
+928*title*地方台     如东影视娱乐
+928*played*0
+929*file*rtmp://live.ycstv.com:1935/live/live3
+929*title*地方台     宜春新闻综合
+929*played*0
+930*file*rtmp://vod.xy0790.com.cn:9600/live/live1
+930*title*地方台     新余新闻综合
+930*played*0
+931*file*rtmp://vod.xy0790.com.cn:9600/live/live2
+931*title*地方台     新余公共
+931*played*0
+932*file*rtmp://vod.xy0790.com.cn:9600/live/live3
+932*title*地方台     新余教育
+932*played*0
+933*file*rtmp://live.zgbctv.com/zgtv/m10
+933*title*地方台     自贡综合
+933*played*0
+934*file*rtmp://live.zgbctv.com/zgtv/m11
+934*title*地方台     自贡公共
+934*played*0
+935*file*http://scdytv.com:1935/live/xwpd_livevideo/playlist.m3u8
+935*title*地方台     德阳新闻综合
+935*played*0
+936*file*http://scdytv.com:1935/live/ggpd_livevideo/playlist.m3u8
+936*title*地方台     德阳公共
+936*played*0
+937*file*rtmp://118.122.16.15/tslsChannelLive/HvxAiQt/live
+937*title*地方台     达州新闻综合
+937*played*0
+938*file*rtmp://118.122.16.15/tslsChannelLive/hHToifM/live
+938*title*地方台     达州公共
+938*played*0
+939*file*rtmp://118.122.16.15/tslsChannelLive/rk8Z088/live
+939*title*地方台     达州城市公众
+939*played*0
+940*file*rtmp://118.122.16.15/tslsChannelLive/8iZQvhD/live
+940*title*地方台     达州通川
+940*played*0
+941*file*http://live1.av.jiaodong.net/channels/yttv/xnpd_yt1/flv:500k/live
+941*title*地方台     烟台新闻综合
+941*played*0
+942*file*http://live1.av.jiaodong.net/channels/yttv/xnpd_yt2/flv:500k/live
+942*title*地方台     烟台公共
+942*played*0
+943*file*rtmp://218.59.162.134:1940/live/zctv1
+943*title*地方台     诸城新闻综合
+943*played*0
+944*file*rtmp://218.59.162.134:1940/live/zctvjjpde1
+944*title*地方台     诸城生活
+944*played*0
+945*file*rtmp://218.59.162.134:1940/live/yspd1
+945*title*地方台     诸城影视
+945*played*0
+946*file*rtmp://218.59.162.134:1940/live/ylpd1
+946*title*地方台     诸城娱乐
+946*played*0
+947*file*rtmp://218.59.162.134:1940/live/yjpd1
+947*title*地方台     诸城党建农科
+947*played*0
+948*file*rtmp://60.214.132.52/tslsChannelLive/pr3Qevo/live
+948*title*地方台     枣庄新闻综合
+948*played*0
+949*file*rtmp://60.214.132.52/tslsChannelLive/wFRTbc1/live
+949*title*地方台     枣庄教育
+949*played*0
+950*file*rtmp://60.214.132.52/tslsChannelLive/19GIsPr/live
+950*title*地方台     枣庄公共
+950*played*0
+951*file*rtmp://222.134.46.228:1935/live/zpjj
+951*title*地方台     邹平民生
+951*played*0
+952*file*http://video.dztv.tv:1935/live/xwpd_gq/playlist.m3u8
+952*title*地方台     德州新闻综合
+952*played*0
+953*file*http://video.dztv.tv:1935/live/ylpd_gq/playlist.m3u8
+953*title*地方台     德州图文
+953*played*0
+954*file*http://video.dztv.tv:1935/live/shpd_gq/playlist.m3u8
+954*title*地方台     德州公共
+954*played*0
+955*file*http://video.dztv.tv:1935/live/sspd_gq/playlist.m3u8
+955*title*地方台     德州时尚
+955*played*0
+956*file*rtmp://111.17.214.4:1935/live/xtzh
+956*title*地方台     新泰新闻综合
+956*played*0
+957*file*rtmp://111.17.214.4:1935/live/xtsh
+957*title*地方台     新泰生活
+957*played*0
+958*file*rtmp://111.17.214.4:1935/live/xtxc
+958*title*地方台     新泰乡村
+958*played*0
+959*file*rtmp://111.17.214.4:1935/live/xtys
+959*title*地方台     新泰影视
+959*played*0
+960*file*http://m3u8-1.live.snrtv.com/sxbc/sxbc-1/index.m3u8
+960*title*地方台     陕西新闻资讯
+960*played*0
+961*file*http://m3u8-2.live.snrtv.com/sxbc/sxbc-2/index.m3u8
+961*title*地方台     陕西都市青春
+961*played*0
+962*file*http://m3u8-1.live.snrtv.com/sxbc/sxbc-3/index.m3u8
+962*title*地方台     陕西生活
+962*played*0
+962*duration2*18
+963*file*http://m3u8-2.live.snrtv.com/sxbc/sxbc-5/index.m3u8
+963*title*地方台     陕西公共
+963*played*0
+964*file*http://m3u8-2.live.snrtv.com/sxbc/sxbc-7/index.m3u8
+964*title*地方台     陕西体育休闲
+964*played*0
+965*file*rtmp://www.qdhtv.net/live/live104
+965*title*地方台     淳安综合
+965*played*0
+966*file*rtmp://livetv.dhtv.cn:1935/live/news
+966*title*地方台     温州新闻综合 HD
+966*played*0
+967*file*rtmp://livetv.dhtv.cn:1935/live/financial
+967*title*地方台     温州经济科教
+967*played*0
+968*file*rtmp://livetv.dhtv.cn:1935/live/citylife
+968*title*地方台     温州都市生活
+968*played*0
+969*file*rtmp://livetv.dhtv.cn:1935/live/peoples
+969*title*地方台     温州公共
+969*played*0
+970*file*rtmp://livetv.dhtv.cn:1935/live/oujiangxianfeng
+970*title*地方台     温州瓯江先锋
+970*played*0
+971*file*http://live.haining.tv/hnxw/sd/live.m3u8
+971*title*地方台     海宁新闻综合
+971*played*0
+972*file*http://live.haining.tv/hnfw/sd/live.m3u8
+972*title*地方台     海宁生活服务
+972*played*0
+973*file*rtmp://61.153.68.139:1935/live/live1
+973*title*地方台     青田新闻综合
+973*played*0
+974*file*http://218.29.90.216:380/live/s6/index.m3u8
+974*title*地方台     郑州都市
+974*played*0
+975*file*http://218.29.90.216:380/live/s5/index.m3u8
+975*title*地方台     郑州妇女儿童
+975*played*0
+976*file*http://218.29.90.216:280/live/s4/index.m3u8
+976*title*地方台     郑州影视戏曲
+976*played*0
+977*file*http://218.29.90.216:280/live/s2/index.m3u8
+977*title*地方台     地铁电视
+977*played*0
+978*file*http://218.29.90.216:280/live/s1/index.m3u8
+978*title*地方台     地铁电视
+978*played*0
+979*file*http://222.36.5.53:9800/live/btv3.m3u8
+979*title*地方台     北京科教
+979*played*0
+980*file*http://ivi.bupt.edu.cn/hls/btv4.m3u8
+980*title*地方台     北京影视
+980*played*0
+981*file*http://stream.jinjiang.tv/1/sd/live.m3u8
+981*title*地方台     晋江侨乡 HD
+981*played*0
+982*file*http://220.161.247.82:8199/live/nd1.m3u8
+982*title*地方台     宁德综合 HD
+982*played*0
+983*file*http://wshls.yizhibo.tv/live/S71069239807178036140/playlist.m3u8
+983*title*地方台     福建导视 HD
+983*played*0
+984*file*http://stream.nxtv.com.cn/yspd/sd/live.m3u8
+984*title*地方台     宁夏影视频道
+984*played*0
+985*file*http://stream.nxtv.com.cn/sepd/sd/live.m3u8
+985*title*地方台     宁夏少儿频道
+985*played*0
+986*file*rtmp://101.44.1.41/live/d13fdb353ca14fe19a8302fbbdf0d26f?ppyunid=158402832&cpn=1141&type=web.cloudplay&b37306c9d387689245f83237542de856-9668-1500328824&segment=8e7a9621_1500314424
+986*title*地方台     海口娱乐生活
+986*played*0
+987*file*http://hbwy.chinashadt.com:2036/live/stream:wy1.stream/playlist.m3u8
+987*title*地方台     武邑-1
+987*played*0
+988*file*http://hbwy.chinashadt.com:2036/live/stream:wy2.stream/playlist.m3u8
+988*title*地方台     武邑-2
+988*played*0
+989*file*http://hbwy.chinashadt.com:2036/live/stream:wy3.stream/playlist.m3u8
+989*title*地方台     武邑-3
+989*played*0
+990*file*http://scgd.cctv1949.com:9090/live/sctv5hd_4000.m3u8
+990*title*地方台     SCTV5 四川影视文艺 HD
+990*played*0
+991*file*http://219.153.252.34/PLTV/88888888/224/3221225487/index.m3u8
+991*title*地方台     重庆影视
+991*played*0
+992*file*http://219.153.252.34/PLTV/88888888/224/3221225489/index.m3u8
+992*title*地方台     重庆都市
+992*played*0
+993*file*http://219.153.252.34/PLTV/88888888/224/3221225490/index.m3u8
+993*title*地方台     重庆时尚
+993*played*0
+994*file*http://219.153.252.34/PLTV/88888888/224/3221225496/index.m3u8
+994*title*地方台     重庆文体娱乐
+994*played*0
+995*file*http://220.167.81.55/PLTV/88888888/224/3221226165/00000100000000060000000000035175_0.smil
+995*title*地方台     百事通动画-1
+995*played*0
+996*file*http://220.167.81.55/PLTV/88888888/224/3221226323/00000100000000060000000000035260_0.smil
+996*title*地方台     百事通动画-2
+996*played*0
+997*file*http://220.167.81.55/PLTV/88888888/224/3221226505/10000100000000060000000000076473_0.smil
+997*title*地方台     IPTV  少儿动画
+997*played*0
+998*file*http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+998*title*地方台     西安新闻综合
+998*played*0
+999*file*http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+999*title*地方台     西安都市
+999*played*0
+1000*file*http://stream2.xiancity.cn/xatv3/sd/live.m3u8
+1000*title*地方台     西安商务资讯
+1000*played*0
+1001*file*http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+1001*title*地方台     西安文化影视
+1001*played*0
+1002*file*http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+1002*title*地方台     西安健康快乐
+1002*played*0
+1003*file*http://222.189.4.165:8199/live/XWZH.m3u8
+1003*title*地方台     连云港新闻综合
+1003*played*0
+1004*file*http://222.189.4.165:8199/live/CSGG.m3u8
+1004*title*地方台     连云港城市公共
+1004*played*0
+1005*file*rtmp://outlive.cdvcloud.com/4fvhuy/bcxwqg
+1005*title*地方台     玉溪新闻综合
+1005*played*0
+1006*file*rtmp://outlive.cdvcloud.com/adw356/9618as
+1006*title*地方台     玉溪公共
+1006*played*0
+1007*file*rtmp://l.weihai.tv:554/live/yitaozhibo
+1007*title*地方台     威海新闻综合
+1007*played*0
+1008*file*rtmp://l.weihai.tv:554/live/gongtvtwo
+1008*title*地方台     威海公共
+1008*played*0
+1009*file*http://yf.m.l.cztv.com/channels/lantian/channel12/360p.m3u8?
+1009*title*地方台     浙江钱江
+1009*played*0
+1010*file*http://hls.hsrtv.cn/hls/hstv1.m3u8
+1010*title*地方台     河北衡水新闻综合
+1010*played*0
+1011*file*http://hls.hsrtv.cn/hls/hstv2.m3u8
+1011*title*地方台     河北衡水影视娱乐
+1011*played*0
+1012*file*http://hls.hsrtv.cn/hls/hstv3.m3u8
+1012*title*地方台     河北衡水公共频道
+1012*played*0
+1013*file*http://mms.hdbs.cn:1935/live/hdxw/playlist.m3u8
+1013*title*地方台     河北邯郸新闻综合
+1013*played*0
+1014*file*http://mms.hdbs.cn:1936/live/education_sd/playlist.m3u8
+1014*title*地方台     河北邯郸公共
+1014*played*0
+1015*file*http://mms.hdbs.cn:1936/live/public_sd/playlist.m3u8
+1015*title*地方台     河北邯郸科教
+1015*played*0
+1016*file*http://202.99.114.87/PLTV/88888891/224/3221225503/10000100000000060000000000086747_0.smil
+1016*title*地方台     天津少儿
+1016*played*0
+1017*file*http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8
+1017*title*地方台     河北沧县电视一套
+1017*played*0
+1018*file*http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8
+1018*title*地方台     河北沧县电视二套
+1018*played*0
+1019*file*http://223.247.33.124:1935/live/zonghe/playlist.m3u8
+1019*title*地方台     安徽东至综合
+1019*played*0
+1020*file*http://223.247.33.124:1935/live/yingshi/playlist.m3u8
+1020*title*地方台     安徽东至影视
+1020*played*0
+1021*file*http://223.247.33.124:1935/live/wenhua/playlist.m3u8
+1021*title*地方台     安徽东至文娱
+1021*played*0
+1022*file*http://itv.3gtech.cn/hls/gdtv/gdzj.m3u8
+1022*title*地方台     广东珠江
+1022*played*0
+1023*file*http://itv.3gtech.cn/hls/gdtv/gdxw.m3u8
+1023*title*地方台     广东新闻
+1023*played*0
+1024*file*http://itv.3gtech.cn/hls/gdtv/gdfc.m3u8
+1024*title*地方台     广东房产
+1024*played*0
+1025*file*http://itv.3gtech.cn/hls/gdtv/gdgg.m3u8
+1025*title*地方台     广东公共
+1025*played*0
+1026*file*http://itv.3gtech.cn/hls/gdtv/gdgj.m3u8
+1026*title*地方台     广东国际
+1026*played*0
+1027*file*http://itv.3gtech.cn/hls/gdtv/qchz.m3u8
+1027*title*地方台     广东会展
+1027*played*0
+1028*file*http://itv.3gtech.cn/hls/gdtv/tvs1hd.m3u8
+1028*title*地方台     南方经济HD
+1028*played*0
+1029*file*http://itv.3gtech.cn/hls/gdtv/tvs1.m3u8
+1029*title*地方台     南方经济
+1029*played*0
+1030*file*http://itv.3gtech.cn/hls/gdtv/tvs2.m3u8
+1030*title*地方台     南方卫视
+1030*played*0
+1031*file*http://itv.3gtech.cn/hls/gdtv/tvs3.m3u8
+1031*title*地方台     南方综艺
+1031*played*0
+1032*file*http://itv.3gtech.cn/hls/gdtv/tvs4.m3u8
+1032*title*地方台     南方影视
+1032*played*0
+1033*file*http://itv.3gtech.cn/hls/gdtv/tvs5.m3u8
+1033*title*地方台     南方少儿
+1033*played*0
+1034*file*http://itv.3gtech.cn/hls/gdtv/jjkt.m3u8
+1034*title*地方台     嘉佳卡通
+1034*played*0
+1035*file*http://itv.3gtech.cn/hls/gdtv/nfgw.m3u8
+1035*title*地方台     南方购物
+1035*played*0
+1036*file*http://itv.3gtech.cn/hls/gdtv/fszh.m3u8
+1036*title*地方台     佛山综合
+1036*played*0
+1037*file*http://itv.3gtech.cn/hls/gdtv/dgzh.m3u8
+1037*title*地方台     东莞综合
+1037*played*0
+1038*file*http://itv.3gtech.cn/hls/gdtv/hzzh.m3u8
+1038*title*地方台     惠州综合
+1038*played*0
+1039*file*http://itv.3gtech.cn/hls/gdtv/czzh.m3u8
+1039*title*地方台     潮州综合
+1039*played*0
+1040*file*http://itv.3gtech.cn/hls/gdtv/stzh.m3u8
+1040*title*地方台     汕头综合
+1040*played*0
+1041*file*http://itv.3gtech.cn/hls/gdtv/jyzh.m3u8
+1041*title*地方台     揭阳综合
+1041*played*0
+1042*file*http://itv.3gtech.cn/hls/gdtv/qyzh.m3u8
+1042*title*地方台     清远综合
+1042*played*0
+1043*file*http://itv.3gtech.cn/hls/gdtv/mzzh.m3u8
+1043*title*地方台     梅州综合
+1043*played*0
+1044*file*http://itv.3gtech.cn/hls/gdtv/zszh.m3u8
+1044*title*地方台     中山综合
+1044*played*0
+1045*file*http://itv.3gtech.cn/hls/gdtv/zjzh.m3u8
+1045*title*地方台     湛江综合
+1045*played*0
+1046*file*http://itv.3gtech.cn/hls/gdtv/mmzh.m3u8
+1046*title*地方台     茂名综合
+1046*played*0
+1047*file*http://itv.3gtech.cn/hls/gdtv/jmzh.m3u8
+1047*title*地方台     江门综合
+1047*played*0
+1048*file*http://itv.3gtech.cn/hls/gdtv/zhzh.m3u8
+1048*title*地方台     珠海综合
+1048*played*0
+1049*file*http://itv.3gtech.cn/hls/gdtv/zqzh.m3u8
+1049*title*地方台     肇庆综合
+1049*played*0
+1050*file*http://itv.3gtech.cn/hls/gdtv/yjzh.m3u8
+1050*title*地方台     阳江综合
+1050*played*0
+1051*file*http://itv.3gtech.cn/hls/gdtv/sgzh.m3u8
+1051*title*地方台     韶关综合
+1051*played*0
+1052*file*http://itv.3gtech.cn/hls/gdtv/hyzh.m3u8
+1052*title*地方台     河源综合
+1052*played*0
+1053*file*http://itv.3gtech.cn/hls/gdtv/swzh.m3u8
+1053*title*地方台     汕尾综合
+1053*played*0
+1054*file*http://itv.3gtech.cn/hls/gdtv/yfzh.m3u8
+1054*title*地方台     云浮综合
+1054*played*0
+1055*file*http://itv.3gtech.cn/hls/fjtv/fjdsj.m3u8
+1055*title*地方台     福建电视剧
+1055*played*0
+1056*file*http://itv.3gtech.cn/hls/fjtv/fjzh.m3u8
+1056*title*地方台     福建综合
+1056*played*0
+1057*file*http://itv.3gtech.cn/hls/fjtv/fjgg.m3u8
+1057*title*地方台     福建公共
+1057*played*0
+1058*file*http://itv.3gtech.cn/hls/fjtv/fjxw.m3u8
+1058*title*地方台     福建新闻
+1058*played*0
+1059*file*http://itv.3gtech.cn/hls/fjtv/fjly.m3u8
+1059*title*地方台     福建旅游
+1059*played*0
+1060*file*http://itv.3gtech.cn/hls/fjtv/fjjs.m3u8
+1060*title*地方台     福建经济
+1060*played*0
+1061*file*http://itv.3gtech.cn/hls/fjtv/fjse.m3u8
+1061*title*地方台     福建少儿
+1061*played*0
+1062*file*http://r.gslb.lecloud.com/live/hls/201703203000000mq13/desc.m3u8
+1062*title*地方台     福建泉港
+1062*played*0
+1063*file*http://r.gslb.lecloud.com/live/hls/201606033000003fc13/desc.m3u8
+1063*title*地方台     福建邵武
+1063*played*0
+1064*file*http://r.gslb.lecloud.com/live/hls/2017011630000005b99/desc.m3u8
+1064*title*地方台     福建永安综合 HD
+1064*played*0
+1065*file*http://r.gslb.lecloud.com/live/hls/2017011630000005d99/desc.m3u8
+1065*title*地方台     福建永安生活 HD
+1065*played*0
+1066*file*http://fjyx.chinashadt.com:1935/zhibo/cs.stream/chunklist_w409416151.m3u8
+1066*title*地方台     福建尤溪新闻综合 HD
+1066*played*0
+1067*file*http://fjyx.chinashadt.com:1935/zhibo/cssh.stream/chunklist_w2057396249.m3u8
+1067*title*地方台     福建尤溪城市生活 HD
+1067*played*0
+1068*file*http://fjsx.chinashadt.com:2036/live/stream:sx1.stream_360p/playlist.m3u8
+1068*title*地方台     福建三明-1
+1068*played*0
+1069*file*http://220.161.87.62:8800/hls/0/index.m3u8
+1069*title*地方台     福建漳浦
+1069*played*0
+1070*file*http://220.161.87.62:8800/hls/1/index.m3u8
+1070*title*地方台     漳浦广播电台
+1070*played*0
+1071*file*http://zb.dehua.tv:8134/hls-live/livepkgr/_definst_/wslhevent/hls_pindao_1_500.m3u8
+1071*title*地方台     福建德化
+1071*played*0
+1072*file*http://36.250.94.170:8888/live6/6.m3u8
+1072*title*地方台     福建南安综合新闻 HD
+1072*played*0
+1073*file*http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/playlist.m3u8
+1073*title*地方台     重庆梁平综合
+1073*played*0
+1074*file*http://hnmq.chinashadt.com:2036/live/stream:mqxw.stream/playlist.m3u8
+1074*title*地方台     河南民权新闻
+1074*played*0
+1075*file*http://hnmq.chinashadt.com:2036/live/stream:mqsw.stream/playlist.m3u8
+1075*title*地方台     河南民权商务信息
+1075*played*0
+1076*file*http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
+1076*title*地方台     北京怀柔区 HD
+1076*played*0
+1077*file*http://player.pptvyun.com/svc/m3u8player/pl/0a2dnq6ZoKKknKmL4K2dmqqW7KGgn6uWoqk.m3u8
+1077*title*地方台     海口-1
+1077*played*0
+1078*file*http://player.pptvyun.com/svc/m3u8player/pl/0a2dnq6ZoKKknKiL4K2dmqqW7KGgn6uWoqc.m3u8
+1078*title*地方台     海口-2
+1078*played*0
+1079*file*http://player.pptvyun.com/svc/m3u8player/pl/0a2dnq6ZoKKknKeL4K2dmqqW7KGgn6uWoqU.m3u8
+1079*title*地方台     海口-3
+1079*played*0
+1080*file*http://61.131.55.96:80/live/5/45/6699b6ab460a415ea7d0dfab96195baf.m3u8?chid=158402831&type=m3u8.web.cloudplay&k=064698a9edb40f3053dade46609ed6f0-b930-1501525220&o=channelcenter&playback=0&cpn=1141&ppyunid=158402831&ydpf_pt=2&auth_tk=eyJ0eXAiOiJQUF9KV1QiLCJ2ZXIiOiIxIn0.eyJhcmdzIjpbImNwbiIsInBweXVuaWQiXSwiZXhwIjoxNTAxNTI1MjIwfQ.XxY0qk3CXkeJSWIjYaDxU6mjHqq2ozx1kdZ1LbkcyuE
+1080*title*地方台     海口-3
+1080*played*0
+1081*file*rtmp://113.207.29.195/app_2/ls_18.stream
+1081*title*地方台     重庆公共农村
+1081*played*0
+1082*file*rtmp://113.207.29.195/app_2/ls_17.stream
+1082*title*地方台     重庆时尚
+1082*played*0
+1083*file*rtmp://113.207.29.195/app_2/ls_10.stream
+1083*title*地方台     重庆都市
+1083*played*0
+1084*file*rtmp://113.207.29.195/app_2/ls_19.stream
+1084*title*地方台     重庆少儿
+1084*played*0
+1085*file*http://qxlmlive.cbg.cn:1935/app_2/ls_3.stream/chunklist.m3u8
+1085*title*地方台     重庆新闻
+1085*played*0
+1086*file*rtmp://113.207.29.195/app_2/ls_9.stream
+1086*title*地方台     重庆科教
+1086*played*0
+1087*file*rtmp://113.207.29.195/app_2/ls_16.stream
+1087*title*地方台     重庆移动
+1087*played*0
+1088*file*rtmp://113.207.29.195/app_2/ls_5.stream
+1088*title*地方台     重庆汽摩
+1088*played*0
+1089*file*rtmp://113.207.29.195/app_2/ls_6.stream
+1089*title*地方台     重庆影视
+1089*played*0
+1090*file*rtmp://113.207.29.195/app_2/ls_3.stream
+1090*title*地方台     重庆新闻
+1090*played*0
+1091*file*rtmp://113.207.29.195/app_2/ls_11.stream
+1091*title*地方台     重庆文体娱乐
+1091*played*0
+1092*file*rtmp://113.207.29.195/app_2/ls_12.stream
+1092*title*地方台     重庆生活资讯
+1092*played*0
+1093*file*rtmp://113.207.29.195/app_2/ls_20.stream
+1093*title*地方台     重庆手持电视
+1093*played*0
+1094*file*http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
+1094*title*地方台     怀柔-1
+1094*played*0
+1095*file*http://live.jiaodong.net:82/tvfushan/hls/tv_yingshi.m3u8
+1095*title*地方台     福山影视
+1095*played*0
+1096*file*http://live.mudu.tv/watch/4xu94b.m3u8
+1096*title*地方台     瑞安新闻综合 HD
+1096*played*0
+1097*file*http://stream.gstv.com.cn/jjpd/hd/live.m3u8
+1097*title*地方台     甘肃经济
+1097*played*0
+1098*file*http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+1098*title*GOOD TV 少儿频道
+1098*played*0
+1099*file*http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+1099*title*GOOD TV 光明神
+1099*played*0
+1100*file*http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch4-2.m3u8
+1100*title*GOOD TV 神乐经典
+1100*played*0
+1101*file*http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
+1101*title*GOOD TV 美食旅游
+1101*played*0
+1102*file*http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+1102*title*GOOD TV 圣经门徒
+1102*played*0
+1103*file*http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+1103*title*GOOD TV 人间道
+1103*played*0
+1104*file*http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch8-2.m3u8
+1104*title*GOOD TV 上帝圣经
+1104*played*0
+1105*file*http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch7-2.m3u8
+1105*title*GOOD TV 神爱世人
+1105*played*0
+1106*file*http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch10-2.m3u8
+1106*title*GOOD TV 神鬼论
+1106*played*0
+1107*file*http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+1107*title*GOOD TV 幸福家庭
+1107*played*0
+1108*file*http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch5-2.m3u8
+1108*title*GOOD TV 音乐河
+1108*played*0
+1109*file*http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+1109*title*GOOD TV 真理台
+1109*played*0
+1110*file*http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+1110*title*GOOD TV 综合台
+1110*played*0
+1111*file*http://61.218.59.193/live/ch101/playlist.m3u8
+1111*title*美女直播
+1111*played*0
+1112*file*http://61.218.59.193/live/ch102/playlist.m3u8
+1112*title*快乐电视网
+1112*played*0
+1113*file*http://61.218.59.193/live/ch103/playlist.m3u8
+1113*title*哈姆雷特电玩瘋
+1113*played*0
+1114*file*http://61.218.59.193/live/ch104/playlist.m3u8
+1114*title*快乐电视网-体育
+1114*played*0
+1115*file*http://weblbs.yystatic.com/s/54880976/54880976/yycomscene.swf
+1115*title*直播间     好声音
+1115*played*0
+1116*file*http://weblbs.yystatic.com/s/22490906/22490906/yycomscene.swf
+1116*title*直播间     燃舞蹈
+1116*played*0
+1117*file*http://weblbs.yystatic.com/s/13757650/13757650/yycomscene.swf
+1117*title*直播间     潮音乐
+1117*played*0
+1118*file*http://weblbs.yystatic.com/s/29883991/29883991/yycomscene.swf
+1118*title*直播间     二次元频道
+1118*played*0
+1119*file*http://weblbs.yystatic.com/s/87476954/87476954/yycomscene.swf
+1119*title*直播间     纯MM频道
+1119*played*0
+1120*file*http://weblbs.yystatic.com/s/25087165/25087165/yycomscene.swf
+1120*title*直播间     玩转好声音
+1120*played*0
+1121*file*http://weblbs.yystatic.com/s/95329615/95329615/yycomscene.swf
+1121*title*直播间     女子偶像组合
+1121*played*0
+1122*file*http://weblbs.yystatic.com/s/94525224/2560378136/yycomscene.swf
+1122*title*音悦V榜歌曲MV
+1122*played*0
+1123*file*http://live.jkwshk.tv/AppName/StreamName.m3u8
+1123*title*健康卫视
+1123*played*0
+1124*file*http://api_p.tll888.com/v/jade.php
+1124*title*翡翠台
+1124*played*0
+1125*file*http://acm.gg/jade.m3u8
+1125*title*翡翠台
+1125*played*0
+1126*file*http://27.254.63.162/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+1126*title*卫视中文台
+1126*played*0
+1127*file*http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+1127*title*TVB娱乐
+1127*played*0
+1128*file*http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R58466B04U387E6625K7735CA24M2FF85C5W3078869&verifycode=2000000610&playtoken=ABCDEFGH&programid=4200000107
+1128*title*TVB星河
+1128*played*0
+1129*file*http://121.251.49.204/hls/fhdy.m3u8
+1129*title*凤凰电影
+1129*played*0
+1130*file*http://27.254.63.162/stream/totnew.php?channel_id=1c2276a2f1884b269ce281c3334e8f85
+1130*title*天映经典
+1130*played*0
+1131*file*http://125.88.39.22/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8
+1131*title*精选
+1131*played*0
+1132*file*http://125.88.39.22/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+1132*title*星影
+1132*played*0
+1133*file*http://125.88.39.22/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
+1133*title*喜剧影院
+1133*played*0
+1134*file*http://125.88.39.22/ive.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8
+1134*title*动作影院
+1134*played*0
+1135*file*http://125.88.39.22/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
+1135*title*家庭影院
+1135*played*0
+1136*file*http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-17/1/517.m3u8
+1136*title*18+欧美
+1136*played*0
